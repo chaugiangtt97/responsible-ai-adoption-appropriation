@@ -1,0 +1,979 @@
+﻿Study ID,Principle,Code,Supplied extraction note,Original source column,Verification status,Page references preserved from source
+P1,AI Characteristics,E,Specifies technical controls like offline-first capabilities for low-connectivity environments.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P1,Task Fit,E,Identifies AI-supported formative feedback as a use case with high pedagogy fit.,Task Fit,Existing extraction note; not independently verified against full text,
+P1,Data Readiness,E,Embeds national data protection laws by requiring mandatory DPIAs for high-risk processing.,Data Readiness,Existing extraction note; not independently verified against full text,
+P1,Organizational Readiness,E,"Identifies power and connectivity as ""Survival"" level prerequisites for system adoption.",Organisational Readiness,Existing extraction note; not independently verified against full text,
+P1,AI Literacy,E,Proposes teacher micro-credentials in AI pedagogy and literacy modules in certification.,AI Literacy,Existing extraction note; not independently verified against full text,
+P1,Capability Development,E,Utilizes iterative pilots and regulatory sandboxes for organizational policy learning.,Capability Development,Existing extraction note; not independently verified against full text,
+P1,Sensemaking,E,Employs the Barrett Model to link technological change with organizational values.,Sensemaking,Existing extraction note; not independently verified against full text,
+P1,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P1,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P1,AI Strategy,E,Framework requires alignment with national education goals through a specific AI Strategy.,AI Strategy,Existing extraction note; not independently verified against full text,
+P1,AI Use Case,E,Proposes selecting low-to-moderate risk cases like automated formative feedback.,AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P1,Implementation Coordination,E,Coordinates adoption via a National Steering Committee and inter-agency DPO networks.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P1,Responsible AI Governance,E,Defines Ethics and Data Governance Boards with explicit vendor oversight mechanisms.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P1,Value Creation,E,"Tracks learning gains, accessibility uptake, and teacher workload reduction outcomes.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P1,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P2,AI Characteristics,E,"Utilizes machine learning for screening, NLP for job postings, and recruitment chatbots.",AI Characteristics,Existing extraction note; not independently verified against full text,
+P2,Task Fit,E,AI automates tasks like resume matches and onboarding to enhance recruiter focus.,Task Fit,Existing extraction note; not independently verified against full text,
+P2,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P2,Organizational Readiness,E,"Facilitating conditions, including perceived resources and support, significantly affect usage intention.",Organisational Readiness,Existing extraction note; not independently verified against full text,
+P2,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P2,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P2,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P2,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P2,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P2,AI Strategy,E,"Aligns AI recruitment with the ""Thailand 4.0"" national development strategy.",AI Strategy,Existing extraction note; not independently verified against full text,
+P2,AI Use Case,E,Evaluates platforms like HireVue for behavior analysis and Textio for bias reduction.,AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P2,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P2,Responsible AI Governance,E,Emphasizes incorporating AI regulations within Thailand's Personal Data Protection Act.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P2,Value Creation,E,AI can reduce recruitment time by 90% and increase employment diversity.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P2,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P3,AI Characteristics,E,Systems are self-learning adaptive algorithms incentivized by reward functions rather than rules.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P3,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P3,Data Readiness,E,"Finds government data often siloed, fragmented, and un-standardized.",Data Readiness,Existing extraction note; not independently verified against full text,
+P3,Organizational Readiness,E,Notes lack of innovation spirit and risk-aversion in the public sector as barriers.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P3,AI Literacy,E,Highlights lack of capacity and skill as a driving challenge for adoption.,AI Literacy,Existing extraction note; not independently verified against full text,
+P3,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P3,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P3,Adaptation/Resistance,E,"Identifies a ""mental barrier to change"" among frontline managers.",Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P3,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P3,AI Strategy,E,Hierarchical model helps policymakers formulate strategies to mitigate AI challenges.,AI Strategy,Existing extraction note; not independently verified against full text,
+P3,AI Use Case,E,"Surveys uses in granting driving licenses, education loan subsidies, and judicial decisions.",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P3,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P3,Responsible AI Governance,E,Finds no accepted standards to measure bias or ethics for public deployment.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P3,Value Creation,E,AI fills critical personnel gaps in radiodiagnostics and traffic management.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P3,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P4,AI Characteristics,E,Distinguishes between language-centric AI (chatbots) and data-centric AI (infrastructure sensors).,AI Characteristics,Existing extraction note; not independently verified against full text,
+P4,Task Fit,E,Large cities use infrastructure for advanced analysis; smaller towns use text AI for templates.,Task Fit,Existing extraction note; not independently verified against full text,
+P4,Data Readiness,E,Identifies fear of data misuse and lack of security guidelines as adoption barriers.,Data Readiness,Existing extraction note; not independently verified against full text,
+P4,Organizational Readiness,E,Cites lack of financial and human resources as primary adoption barriers.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P4,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P4,Capability Development,E,Notes smaller municipalities rely on regional analytical outputs due to lack of capacity.,Capability Development,Existing extraction note; not independently verified against full text,
+P4,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P4,Adaptation/Resistance,E,Legislative uncertainty breeds caution and apprehension among smaller municipalities.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P4,Routinization,E,Finds IT management is the most common entry point for AI across strata.,Routinisation,Existing extraction note; not independently verified against full text,
+P4,AI Strategy,E,Comprehensive strategic integration is still in its infancy and often siloed.,AI Strategy,Existing extraction note; not independently verified against full text,
+P4,AI Use Case,E,"Identifies uses in public waste sensors, traffic management, and transport optimization.",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P4,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P4,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P4,Value Creation,E,Most significant benefit is improved internal efficiency and reduced employee workload.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P4,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P5,AI Characteristics,E,Focuses on software as a medical device (SaMD) and interpretable algorithms.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P5,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P5,Data Readiness,E,"Notes difficulties in accessing high-quality, unbiased training data.",Data Readiness,Existing extraction note; not independently verified against full text,
+P5,Organizational Readiness,U,,Organisational Readiness,No source extraction supplied; not evidence of absence,
+P5,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P5,Capability Development,E,Insurance may require developers to provide ongoing performance data beyond regulatory review.,Capability Development,Existing extraction note; not independently verified against full text,
+P5,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P5,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P5,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P5,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P5,AI Use Case,E,Notes drug-dosing and surgical assistance systems as specific applications.,AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P5,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P5,Responsible AI Governance,E,Proposes liability insurance to mitigate unpredictable risks and reduce legal uncertainty.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P5,Value Creation,E,Insurance products increase trust and help contain the cost of care.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P5,Risk Outcomes,E,AI Adoption Decision: Liability risks and legal uncertainty reduce clinician and developer incentives for adoption.,AI Adoption Decision,Retrospective classification of supplied extraction notes; full-text confirmation pending,
+P6,AI Characteristics,E,AI processes unstructured data into schemas for business intelligence.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P6,Task Fit,E,AI helps humans disengage from mundane tasks to concentrate on demanding ones.,Task Fit,Existing extraction note; not independently verified against full text,
+P6,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P6,Organizational Readiness,U,,Organisational Readiness,No source extraction supplied; not evidence of absence,
+P6,AI Literacy,E,AI systems are used to detect and provide for employee training needs.,AI Literacy,Existing extraction note; not independently verified against full text,
+P6,Capability Development,E,AI adoption supports personnel engagement and re-allocation to more productive assignments.,Capability Development,Existing extraction note; not independently verified against full text,
+P6,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P6,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P6,Routinization,E,AI adoption increased by 12 percent among Finnish firms between 2017-2021.,Routinisation,Existing extraction note; not independently verified against full text,
+P6,AI Strategy,E,Strategic significance of AI is increasing in large Finnish enterprises.,AI Strategy,Existing extraction note; not independently verified against full text,
+P6,AI Use Case,E,Identifies uses in hazardous facility inspection robots and forest digital twins.,AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P6,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P6,Responsible AI Governance,E,Highlights the need for ethical AI auditing and standards for data accuracy.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P6,Value Creation,E,"AI reduces transmission losses in grids, mitigates CO2, and improves ESG footprints.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P6,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P7,AI Characteristics,E,Uses LLMs to personalize dialogue and structure coaching reflections.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P7,Task Fit,E,Adapts coaching style (S1–S4) based on the coachee's development level.,Task Fit,Existing extraction note; not independently verified against full text,
+P7,Data Readiness,E,"Adopts ""data minimization,"" requesting only role and goal information.",Data Readiness,Existing extraction note; not independently verified against full text,
+P7,Organizational Readiness,E,Organizational approvers validate development proposals to ensure mission alignment.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P7,AI Literacy,E,AI generates customized KSA triplets to clarify employee learning targets.,AI Literacy,Existing extraction note; not independently verified against full text,
+P7,Capability Development,E,OSCAR framework structures dialogue to support human potential and skill building.,Capability Development,Existing extraction note; not independently verified against full text,
+P7,Sensemaking,E,Practitioners judged AI to be helpful in raising coachee situational awareness.,Sensemaking,Existing extraction note; not independently verified against full text,
+P7,Adaptation/Resistance,E,Evaluators suggested testing cases with unmotivated or resistant employees.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P7,Routinization,E,Embeds a Review step for automated recap and progress check-ins.,Routinisation,Existing extraction note; not independently verified against full text,
+P7,AI Strategy,E,Aligns coaching with business strategy by anchoring sessions in organizational context.,AI Strategy,Existing extraction note; not independently verified against full text,
+P7,AI Use Case,E,Prototyped scenarios for UX management and developer technical upskilling.,AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P7,Implementation Coordination,E,Demonstrates automated session orchestration and stateful memory using workflow tools.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P7,Responsible AI Governance,E,"Incorporates disclosure rules, human decision authority, and auditable review logs.",Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P7,Value Creation,E,Generates KPI sets to track development progress and ROI data.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P7,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P8,AI Characteristics,E,"ML prediction models, NLP, and computer vision systems augment clinician decisions.",AI Characteristics,Existing extraction note; not independently verified against full text,
+P8,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P8,Data Readiness,E,Assess frame evaluates if data architectures are interoperable and high-quality.,Data Readiness,Existing extraction note; not independently verified against full text,
+P8,Organizational Readiness,E,"Diagnoses readiness across technical, managerial, and behavioral systems via the Iceberg Model.",Organisational Readiness,Existing extraction note; not independently verified against full text,
+P8,AI Literacy,E,Proposes building data science literacy via field and forum learning.,AI Literacy,Existing extraction note; not independently verified against full text,
+P8,Capability Development,E,"Gap analysis helps determine whether to build, buy, or partner for skills.",Capability Development,Existing extraction note; not independently verified against full text,
+P8,Sensemaking,E,Narrative linking AI to the mission helps foster workforce conviction.,Sensemaking,Existing extraction note; not independently verified against full text,
+P8,Adaptation/Resistance,E,"Notes resistance can stem from cognitive overload and ""alert fatigue"".",Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P8,Routinization,E,Advances change by institutionalising learning systems and after-action reviews.,Routinisation,Existing extraction note; not independently verified against full text,
+P8,AI Strategy,E,Requires a clear aspiration for intelligent healthcare aligned with organizational purpose.,AI Strategy,Existing extraction note; not independently verified against full text,
+P8,AI Use Case,E,Identifies short-term (triage) to long-term (learning health systems) horizons.,AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P8,Implementation Coordination,E,Recommends an AI transformation office to coordinate clinical and technical workstreams.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P8,Responsible AI Governance,E,"Recommends governance defining accountability, override rights, and model drift surveillance.",Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P8,Value Creation,E,"Measures impact across initiatives, clinical safety, and enterprise value.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P8,Risk Outcomes,E,"Adaptation/Resistance: Notes resistance can stem from cognitive overload and ""alert fatigue"".",Adaptation/Resistance,Retrospective classification of supplied extraction notes; full-text confirmation pending,
+P9,AI Characteristics,E,AI systems include image-based diagnosis and climate-based algorithm models.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P9,Task Fit,E,IPM decision support systems minimize pesticide use and optimize spraying.,Task Fit,Existing extraction note; not independently verified against full text,
+P9,Data Readiness,E,Notes insufficient data processing capabilities as a barrier to harnessing AI.,Data Readiness,Existing extraction note; not independently verified against full text,
+P9,Organizational Readiness,E,"Average readiness is ""medium,"" with strengths in willingness but weaknesses in infrastructure.",Organisational Readiness,Existing extraction note; not independently verified against full text,
+P9,AI Literacy,E,Highlights the need for training programs and staff AI skill updates.,AI Literacy,Existing extraction note; not independently verified against full text,
+P9,Capability Development,E,Prioritizes human resource development as the engine for smart transformation.,Capability Development,Existing extraction note; not independently verified against full text,
+P9,Sensemaking,E,"Organizational culture towards innovation is high, reflecting positive attitudes.",Sensemaking,Existing extraction note; not independently verified against full text,
+P9,Adaptation/Resistance,E,Identifies resistance to change among some personnel as a moderate threat.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P9,Routinization,E,Strategy includes periodic monitoring and evaluation plans across governorates.,Routinisation,Existing extraction note; not independently verified against full text,
+P9,AI Strategy,E,Proposed development strategy aligns institutional capabilities with national digital transformation plans.,AI Strategy,Existing extraction note; not independently verified against full text,
+P9,AI Use Case,E,Includes early warning plant health monitoring and border pest detection.,AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P9,Implementation Coordination,E,Proposes forming technical supervisory committees to monitor administrative challenges.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P9,Responsible AI Governance,E,SWOT analysis identifies lack of clarity in national agricultural policies as a threat.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P9,Value Creation,E,AI supports farmers in making better decisions and achieving sustainable growth.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P9,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P10,AI Characteristics,E,Applications focus on analyzing medical images or structured health data.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P10,Task Fit,E,AI supports diagnostic image analysis and prognostic progression prediction.,Task Fit,Existing extraction note; not independently verified against full text,
+P10,Data Readiness,E,Interoperability is a significantly higher barrier for organizations developing AI.,Data Readiness,Existing extraction note; not independently verified against full text,
+P10,Organizational Readiness,E,Formal units or structures for AI are rare and limited to development adopters.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P10,AI Literacy,E,Lack of skilled personnel is the highest-ranked barrier for nonadopters.,AI Literacy,Existing extraction note; not independently verified against full text,
+P10,Capability Development,E,"Implementation requires competencies to conduct ""make-or-buy"" scouting of solutions.",Capability Development,Existing extraction note; not independently verified against full text,
+P10,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P10,Adaptation/Resistance,E,Corporate culture is a significant barrier for commercial AI purchasers.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P10,Routinization,E,Routinely used applications were CE-marked and integrated into medical devices.,Routinisation,Existing extraction note; not independently verified against full text,
+P10,AI Strategy,E,Research-focused IRCCS institutes are more likely to engage in AI development.,AI Strategy,Existing extraction note; not independently verified against full text,
+P10,AI Use Case,E,"Identifies applications prevalent in radiology, oncology, and diabetology.",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P10,Implementation Coordination,E,Informal initiatives involve multidisciplinary groups or Information Systems departments.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P10,Responsible AI Governance,E,Privacy concerns were the highest barrier for organizations developing their own applications.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P10,Value Creation,E,AI applications support diagnosis and prognosis to streamline clinical workflows.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P10,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P11,AI Characteristics,E,"Uses machine learning and speech recognition to emulate human capabilities like sense, comprehend, and act (p. 180).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 180)
+P11,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P11,Data Readiness,E,"Findings highlight ""lack of availability of high-quality data in standardized formats"" and ""lack of integration"" as significant causal barriers (p. 184, 191).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 184, 191)"
+P11,Organizational Readiness,E,"Identifies ""High adaptation cost"" and ""Complexity in managing diversified stakeholders"" as significant effects impacted by foundational barriers (p. 189, 191).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 189, 191)"
+P11,AI Literacy,E,"Found ""Lack of awareness about AI"" as a dominant cause and ""shortage of AI expertise"" as a critical barrier (p. 189, 192).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 189, 192)"
+P11,Capability Development,E,"Emphasizes the urgent need to ""foster AI expertise"" and provide ""skilling opportunities"" to overcome adoption hurdles (p. 192, 193).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 192, 193)"
+P11,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P11,Adaptation/Resistance,E,"Notes ""Fear among medical specialists of getting replaced by machine"" as a cause group barrier (p. 189, 191).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 189, 191)"
+P11,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P11,AI Strategy,E,"Categorizes barriers into cause-and-effect groups to guide resilient healthcare strategies (p. 181, 189).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 181, 189)"
+P11,AI Use Case,E,"Surveys applications in diabetic retinopathy detection, COVID-19 chatbots, and drug repurposing (p. 180, 181).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 180, 181)"
+P11,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P11,Responsible AI Governance,E,"Identifies inadequate regulations, data privacy, and lack of accountability as high-impact cause-group factors (p. 184, 189).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 184, 189)"
+P11,Value Creation,E,"AI adoption aims to boost efficiency and resiliency in India’s healthcare system and improve service quality for society (p. 179, 193).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 179, 193)"
+P11,Risk Outcomes,E,"Adaptation/Resistance: Notes ""Fear among medical specialists of getting replaced by machine"" as a cause group barrier (p. 189, 191).",Adaptation/Resistance,Retrospective classification of supplied extraction notes; full-text confirmation pending,"(p. 189, 191)"
+P12,AI Characteristics,E,"Machines performing cognitive functions like learning and problem-solving, able to sense, reason, and respond (p. 2).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 2)
+P12,Task Fit,E,Model proposes that desired individual and organisational outcomes depend on the fit between social and technical subsystems (p. 11).,Task Fit,Existing extraction note; not independently verified against full text,(p. 11)
+P12,Data Readiness,E,"Identifies technological resources like ""data"" as critical for readiness and adoption (p. 13).",Data Readiness,Existing extraction note; not independently verified against full text,(p. 13)
+P12,Organizational Readiness,E,"""Technology readiness"" and organisational structure factors (leadership support, culture) are proposed as critical antecedents (p. 11, 13).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 11, 13)"
+P12,AI Literacy,E,Training and technical knowledge are identified as key factors for implementation and scaling AI responsibly (p. 14).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 14)
+P12,Capability Development,E,"Organizations should develop ""adaptive competencies"" and reskill employees to work alongside AI (p. 25, 27).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 25, 27)"
+P12,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P12,Adaptation/Resistance,E,"Notes turnover intention and perceived job risk as negative individual outcomes of replacement intention (p. 17, 18).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 17, 18)"
+P12,Routinization,E,Emphasizes institutionalizing AI by embedding best practices at the organizational level to change operations (p. 14).,Routinisation,Existing extraction note; not independently verified against full text,(p. 14)
+P12,AI Strategy,E,Transformative success requires aligning AI strategy and operating models with organizational objectives (p. 11).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 11)
+P12,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P12,Implementation Coordination,E,Recommends that managers build effective management mechanisms and project teams to support adoption (p. 25).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 25)
+P12,Responsible AI Governance,E,"Suggests developing a code of ethics and monitoring security, bias, and privacy via government regulations (p. 16).",Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 16)
+P12,Value Creation,E,"Proposed outcomes include improved labor effectiveness, operational efficiency, and customer service quality (p. 19, 20).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 19, 20)"
+P12,Risk Outcomes,E,"Adaptation/Resistance: Notes turnover intention and perceived job risk as negative individual outcomes of replacement intention (p. 17, 18).",Adaptation/Resistance,Retrospective classification of supplied extraction notes; full-text confirmation pending,"(p. 17, 18)"
+P13,AI Characteristics,E,"Automated data analysis, substantive testing, and continuous monitoring via machine learning and predictive analytics (p. 2).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 2)
+P13,Task Fit,E,"AI tools automate routine auditing tasks and detect anomalous patterns traditional sampling might miss (p. 2, 21).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 2, 21)"
+P13,Data Readiness,E,Compliance with regulations like the Data Protection Act safeguards data integrity and enables real-time reporting (p. 21).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 21)
+P13,Organizational Readiness,E,"Findings suggest that organizational culture, emphasizing accountability and innovation, enhances the effective use of flexible IT tools (p. 20).",Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 20)
+P13,AI Literacy,E,"Managerial expertise and specialized training in AI are identified as necessary to oversee AI-driven auditing (p. 11, 21).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 11, 21)"
+P13,Capability Development,E,"Building ""technology competencies"" significantly strengthens the relationship between AI adoption and ERM performance (p. 1, 16).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 1, 16)"
+P13,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P13,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P13,Routinization,E,"AI integration encourages adaptable IT systems, facilitating a shift from periodic to continuous real-time risk monitoring (p. 5, 16).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 5, 16)"
+P13,AI Strategy,E,Emphasizes the need for strategic alignment between AI investments and organizational capabilities to realize value (p. 1).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 1)
+P13,AI Use Case,E,"Identifies anomaly detection, fraud assessment, and real-time modeling of risk scenarios as key applications (p. 5).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 5)
+P13,Implementation Coordination,E,Recommends establishing interdisciplinary teams to consistently monitor and optimize AI systems (p. 21).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 21)
+P13,Responsible AI Governance,E,"Highlights compliance with Ghanaian corporate governance and Data Protection Act to ensure ethical automation (p. 18, 21).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 18, 21)"
+P13,Value Creation,E,"AI adoption boosts operational resilience, audit quality, and productivity while strengthening client trust (p. 2, 3).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 2, 3)"
+P13,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P14,AI Characteristics,E,"Machine learning, deep learning, NLP, and image recognition used to transform data into actionable decisions (p. 1).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 1)
+P14,Task Fit,E,"AI automates repetitive tasks to increase productivity and meet work requirements (p. 6, 7).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 6, 7)"
+P14,Data Readiness,E,AI empowers people to systematize disaggregated information and transform large datasets into decisions (p. 1).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 1)
+P14,Organizational Readiness,E,"""Sustainable human capital"" has a significant impact on adoption, while general ""organizational support"" was insignificant in Saudi SMEs (p. 14).",Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 14)
+P14,AI Literacy,E,Workforce skills and employee readiness are potential plus points for accepting AI and other innovations (p. 16).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 16)
+P14,Capability Development,E,"Emphasizes investing in capacity-building and training employees to manage advanced technologies (p. 15, 16).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 15, 16)"
+P14,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P14,Adaptation/Resistance,E,"Notes that complexity can be a fundamental problem leading to reluctance or sensitivity to errors (p. 4, 15).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 4, 15)"
+P14,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P14,AI Strategy,E,"AI adoption is linked to Vision 2030 modernization initiatives to achieve sustainable innovation and competitiveness (p. 9, 16).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 9, 16)"
+P14,AI Use Case,E,"Identifies uses in green manufacturing, packaging design, and customer behavior prediction (p. 6, 15).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 6, 15)"
+P14,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P14,Responsible AI Governance,E,Recommends including ethical concerns as part of sustainable HR practices for responsible AI administration (p. 18).,Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 18)
+P14,Value Creation,E,"AI adoption positively and significantly impacts operational efficiency, product quality, and economic performance (p. 14).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 14)
+P14,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P15,AI Characteristics,E,"AI solutions include predictive analytics, process automation, and chatbots for customer engagement (p. 5, 27).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 5, 27)"
+P15,Task Fit,E,AI complements innovation efforts by automating routine tasks and enabling faster responsiveness to market demands (p. 22).,Task Fit,Existing extraction note; not independently verified against full text,(p. 22)
+P15,Data Readiness,E,Ready adoption of cloud platforms enhances storage and processing efficiency for seamless AI integration (p. 8).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 8)
+P15,Organizational Readiness,E,Organizational readiness and openness to change are highlighted as enablers for scaling AI solutions (p. 5).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 5)
+P15,AI Literacy,E,"Suggests targeted AI training programs to improve general digital literacy across functional roles (p. 24, 25).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 24, 25)"
+P15,Capability Development,E,"Well-developed dynamic capabilities enable firms to adapt and reorganize resources for AI adoption (p. 1, 13).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 1, 13)"
+P15,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P15,Adaptation/Resistance,E,Cultivating AI champions and integrating AI into the company vision helps reduce resistance (p. 25).,Adaptation/Resistance,Existing extraction note; not independently verified against full text,(p. 25)
+P15,Routinization,E,"Emphasizes ""AI Adoption Intensity,"" representing the extent AI is integrated and substantially changes business processes (p. 27, 23).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 27, 23)"
+P15,AI Strategy,E,AI adoption represents a strategic lever for innovation-driven growth and long-term firm sustainability (p. 22).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 22)
+P15,AI Use Case,E,"Lists use cases in market research, product portfolio management, and cybersecurity defenses (p. 5).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 5)
+P15,Implementation Coordination,E,Creation of cross-functional AI task forces is recommended to align implementation with business needs (p. 24).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 24)
+P15,Responsible AI Governance,E,Emphasizes training focused on ethical AI use to foster long-term transformation (p. 25).,Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 25)
+P15,Value Creation,E,"AI adoption intensity positively influences technological, economic, and collaborative performance (p. 11, 20).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 11, 20)"
+P15,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P16,AI Characteristics,E,"Key technologies include NLP, computer vision, neural networks, and generative AI (p. 5, 7).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 5, 7)"
+P16,Task Fit,E,"AI reconstructs R&D models by optimizing search, representation, and aggregation in repetitive, information-intensive tasks (p. 5).",Task Fit,Existing extraction note; not independently verified against full text,(p. 5)
+P16,Data Readiness,E,AI provides a foundation for innovation through data mining and knowledge integration mechanisms (p. 5).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 5)
+P16,Organizational Readiness,E,Digital Leadership and executives with digital acumen act as catalysts for effective integration (p. 4).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 4)
+P16,AI Literacy,E,"""Executives’ digital background"" serves as a bridge, reducing technical and cognitive barriers for AI adoption (p. 5, 19).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 5, 19)"
+P16,Capability Development,E,"AI adoption enhances firms' dynamic capabilities to sense, seize, and reconfigure market opportunities (p. 5).",Capability Development,Existing extraction note; not independently verified against full text,(p. 5)
+P16,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P16,Adaptation/Resistance,E,Digital leaders foster an open innovation atmosphere that enhances employee acceptance of AI (p. 5).,Adaptation/Resistance,Existing extraction note; not independently verified against full text,(p. 5)
+P16,Routinization,E,"Embedding AI into innovation paradigms reshapes models for research, development, and process management (p. 1, 20).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 1, 20)"
+P16,AI Strategy,E,Enterprises should define the strategic positioning of AI within innovation systems to achieve data-driven mechanisms (p. 20).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 20)
+P16,AI Use Case,E,"Identifies R&D decision-making, product design, and market decision-making as key application areas (p. 1, 5).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 1, 5)"
+P16,Implementation Coordination,E,"EDB promotes cross-departmental collaboration and knowledge sharing, reducing technology silos (p. 5).",Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 5)
+P16,Responsible AI Governance,E,"External governance via media attention improves transparency and provides reputational pressure for responsible adoption (p. 13, 19).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 13, 19)"
+P16,Value Creation,E,"AI adoption significantly boosts innovation efficiency (ln(patent)/ln(R&D investment)) and resource allocation efficiency (p. 1, 19).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 1, 19)"
+P16,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P17,AI Characteristics,E,Uses natural language processing (NLP) to replicate human cognitive functions like perception and decision-making (p. 4).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 4)
+P17,Task Fit,E,AI facilitates consensus by systematically integrating varied cultural perspectives into actionable ESG strategies (p. 2).,Task Fit,Existing extraction note; not independently verified against full text,(p. 2)
+P17,Data Readiness,E,"AI processes vast unstructured data and improves reporting accuracy through real-time monitoring (p. 1, 11).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 1, 11)"
+P17,Organizational Readiness,E,"Culturally diverse leadership teams are found to be a valuable strategic resource for Europe's AI transformation (p. 10, 13).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 10, 13)"
+P17,AI Literacy,E,"Leaders promote ""AI awareness"" and implement tailored training to identify and address skill gaps (p. 4).",AI Literacy,Existing extraction note; not independently verified against full text,(p. 4)
+P17,Capability Development,E,"Culturally diverse teams foster innovation and attract international talent, creating unique synergetic advantages (p. 10, 13).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 10, 13)"
+P17,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P17,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P17,Routinization,E,"AI is positioned as a tool to automate compliance and integrate sustainability into corporate strategy (p. 3, 11).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 3, 11)"
+P17,AI Strategy,E,"AI adoption should be strategically aligned with cultural diversity to refine ESG strategies and outcomes (p. 1, 13).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 1, 13)"
+P17,AI Use Case,E,"Identifies uses in energy management, workforce diversity monitoring, and fraud detection (p. 3, 11).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 3, 11)"
+P17,Implementation Coordination,E,"AI helps leaders analyze, coordinate, and refine complex responses across multicultural business environments (p. 5, 13).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 5, 13)"
+P17,Responsible AI Governance,E,"Emphasizes using AI to ensure compliance with the EU AI Act and Ethics Guidelines for Trustworthy AI (p. 2, 10).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 2, 10)"
+P17,Value Creation,E,"AI adoption improves ESG performance scores and enhances stakeholder trust (p. 1, 11).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 1, 11)"
+P17,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P18,AI Characteristics,E,AI automates routine processes like daily document handling and simplified management (p. 2).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 2)
+P18,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P18,Data Readiness,E,"Concerns about privacy in data collection, submitting information to AI, or unauthorized access were assessed (p. 4, 6).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 4, 6)"
+P18,Organizational Readiness,E,"Assessment of ""Leadership support"" as a moderator showed no significant impact on the adoption path (p. 10, 13).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 10, 13)"
+P18,AI Literacy,E,"Prior experience with AI is an important predictor of adoption; age has a negative effect (p. 1, 14).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 1, 14)"
+P18,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P18,Sensemaking,E,"Intuitive communication and trust shape employee perceptions of usefulness and ease of use (p. 1, 14).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 1, 14)"
+P18,Adaptation/Resistance,E,"Evaluates performance anxiety and communication barriers that hinder user interaction with AI systems (p. 4, 6).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 4, 6)"
+P18,Routinization,E,"AI already in the workplace for 56% of respondents, automating and simplifying service provision (p. 12).",Routinisation,Existing extraction note; not independently verified against full text,(p. 12)
+P18,AI Strategy,E,Suggests development of ethical AI adoption strategies to ensure proper integration among frontline employees (p. 1).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 1)
+P18,AI Use Case,E,AI is used for community engagement through digital platforms and document handling (p. 2).,AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 2)
+P18,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P18,Responsible AI Governance,E,"Evaluates employees' concerns about performance risks, privacy, and bias in AI integration (p. 1, 4).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 1, 4)"
+P18,Value Creation,E,"AI adoption aims to make service provision more efficient, accurate, and cost-effective (p. 1, 2).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 1, 2)"
+P18,Risk Outcomes,E,"Responsible AI Governance: Evaluates employees' concerns about performance risks, privacy, and bias in AI integration (p. 1, 4).",Responsible AI Governance,Retrospective classification of supplied extraction notes; full-text confirmation pending,"(p. 1, 4)"
+P19,AI Characteristics,E,"Focuses on Machine Learning Capability (intelligent algorithms) and Intelligent Decision-Making Systems (p. 668, 669).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 668, 669)"
+P19,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P19,Data Readiness,E,"Data Analytics Capability (DAC) refers to the ability to gather and process large volumes of financial data (p. 669, 670).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 669, 670)"
+P19,Organizational Readiness,E,"Analytical frameworks and support mechanisms are required to ensure technology implementation leads to benefits (p. 671, 674).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 671, 674)"
+P19,AI Literacy,E,"DAC enables institutions to convert digital information into strategic knowledge and evidence-based management (p. 669, 670).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 669, 670)"
+P19,Capability Development,E,"Strong analytical skills boost institutional agility, operational responsiveness, and financial innovation performance (p. 668, 672).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 668, 672)"
+P19,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P19,Adaptation/Resistance,E,"Notes ""organisational resistance"" may impact short-term financial sustainability during machine learning adoption (p. 671, 674).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 671, 674)"
+P19,Routinization,E,"AI technologies become strategic assets when effectively embedded within organizational systems and activities (p. 670, 671).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 670, 671)"
+P19,AI Strategy,E,"AI and blockchain are introduced into strategies to fortify competitive advantage and operational resilience (p. 667, 674).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 667, 674)"
+P19,AI Use Case,E,"Uses in fraud detection, customer profiling, and predictive financial modeling (p. 668, 669).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 668, 669)"
+P19,Implementation Coordination,E,"AI and blockchain adoption requires integration processes and automated data coordination (p. 667, 674).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 667, 674)"
+P19,Responsible AI Governance,E,"Emphasizes blockchain platforms for transaction security, transparency, and digital financial reliability (p. 667, 671).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 667, 671)"
+P19,Value Creation,E,"AI adoption improves operational efficiency, transaction transparency, and long-term financial resilience (p. 666, 672).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 666, 672)"
+P19,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P20,AI Characteristics,E,"Key technologies include machine learning, image recognition, spectral analysis, and predictive algorithms (p. 11, 14).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 11, 14)"
+P20,Task Fit,E,"AI-enabled precision agriculture (smart irrigation, sensor monitoring) helps farmers pursue growth and efficiency (p. 8, 10).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 8, 10)"
+P20,Data Readiness,E,AI-driven analytics improve predictive precision even under uncertainty and incomplete data (p. 8).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 8)
+P20,Organizational Readiness,E,Findings reveal that infrastructure readiness and institutional coordination are decisive factors for scaling AI (p. 2).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 2)
+P20,AI Literacy,E,"Adoption in Bangladesh and Nepal is significantly influenced by digital literacy and farmers' technological confidence (p. 2, 10).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 2, 10)"
+P20,Capability Development,E,"Emphasizes region-wide investment in rural digital infrastructure and AI literacy to build human capital (p. 2, 12).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 2, 12)"
+P20,Sensemaking,E,"TAM-based countries rely on farmers' ""perceptions of usefulness"" and ease of use to determine engagement (p. 2, 10).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 2, 10)"
+P20,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P20,Routinization,E,"AI is integrated through mobile-based advisory systems and automated procurement/payment platforms (p. 11, 13).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 11, 13)"
+P20,AI Strategy,E,Policymakers should design strategies to enhance digital infrastructure and promote inclusive financing (p. 12).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 12)
+P20,AI Use Case,E,"Identifies 6 functional categories: Crop Planning, Pest Management, Soil Optimization, Supply Chain, Financial Inclusion, Quality Control (p. 7).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 7)
+P20,Implementation Coordination,E,Cross-border public-private collaborations are recommended to accelerate data-driven transformation (p. 2).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 2)
+P20,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P20,Value Creation,E,"AI implementation reduces water use (15%) and fertilizer use (10%) while maintaining production (p. 11, 15).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 11, 15)"
+P20,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P21,AI Characteristics,E,"Key technologies include natural language processing (NLP), machine learning (ML), and predictive analytics (p. 2, 14).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 2, 14)"
+P21,Task Fit,E,"AI's strategic value emerges from integration with firm-specific resources like digital infrastructure (p. 2, 13).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 2, 13)"
+P21,Data Readiness,E,"Fragmentation, informality, and non-digitized operational data are identified as critical challenges for adoption (p. 1, 13).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 1, 13)"
+P21,Organizational Readiness,E,"Infrastructural equity and weak institutional support are identified as external barriers to readiness (p. 1, 15).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 1, 15)"
+P21,AI Literacy,E,"Identifies low levels of digital literacy and human capital shortages as primary obstacles to implementation (p. 4, 11).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 4, 11)"
+P21,Capability Development,E,"SMEs must invest in ""capability formation"" and tailored training programs to activate AI resources effectively (p. 12, 14).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 12, 14)"
+P21,Sensemaking,E,"Librarians in qualitative interviews report ""trusting the software blindly"" due to technical complexity (p. 12).",Sensemaking,Existing extraction note; not independently verified against full text,(p. 12)
+P21,Adaptation/Resistance,E,"Fragmented data and informality make AI tools ineffective, leading to exclusion from ESH demands (p. 13).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,(p. 13)
+P21,Routinization,E,"AI adoption is described as contingent on being ""embedded in firm-specific routines"" to create sustained advantage (p. 2, 5).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 2, 5)"
+P21,AI Strategy,E,"SMEs can develop targeted digital strategies to ensure compliance and position themselves competitively (p. 3, 15).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 3, 15)"
+P21,AI Use Case,E,"Identifies uses in ESG data collection automation, carbon footprint calculation, and risk modeling (p. 4, 9, 20).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 4, 9, 20)"
+P21,Implementation Coordination,E,"Emphasizes cross-functional coordination to avoid superficial compliance and ensure internal comprehension (p. 13, 14).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 13, 14)"
+P21,Responsible AI Governance,E,"Emphasizes governance mechanisms, data privacy, and ethical standards for data validation and oversight (p. 2, 14).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 2, 14)"
+P21,Value Creation,E,"Opportunities include resource optimization, competitive differentiation, and improved Organizational performance and accuracy (p. 1, 9, 10).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 1, 9, 10)"
+P21,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P22,AI Characteristics,E,"Advanced techniques include machine learning, neural networks, and sophisticated ESG screening (p. 747, 749).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 747, 749)"
+P22,Task Fit,E,"RAs use AI to supplement human expertise, enabling optimized investment strategies (p. 754).",Task Fit,Existing extraction note; not independently verified against full text,(p. 754)
+P22,Data Readiness,E,"Emphasizes firm strength in ""handling large datasets"" to offer robust risk management (p. 757).",Data Readiness,Existing extraction note; not independently verified against full text,(p. 757)
+P22,Organizational Readiness,E,"Shortage of skilled professionals and limited in-house technical expertise are identified as internal weaknesses (p. 746, 760, 761).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 746, 760, 761)"
+P22,AI Literacy,E,"Practical recommendations include investing in ""employee training"" to mitigate the talent gap (p. 746).",AI Literacy,Existing extraction note; not independently verified against full text,(p. 746)
+P22,Capability Development,E,"Pioneering firms develop complex machine learning capabilities to gain a competitive edge (p. 761, 762).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 761, 762)"
+P22,Sensemaking,E,"Interviews reveal CEO skepticism around ""fully automated decisions"" due to market unpredictability (p. 759, 761).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 759, 761)"
+P22,Adaptation/Resistance,E,"German public’s aversion to risk and ""AI skepticism"" might limit uptake of advanced strategies (p. 759, 760).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 759, 760)"
+P22,Routinization,E,"AI-supported models supplement human investment committees to build ongoing managed portfolios (p. 747, 754).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 747, 754)"
+P22,AI Strategy,E,"Pioneering firms use AI as a ""key differentiator"" to carve out niche brand identities in a fragmented market (p. 756, 757).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 756, 757)"
+P22,AI Use Case,E,"Includes automated portfolio rebalancing, predictive market analytics, and AI-powered client onboarding chatbots (p. 749, 759).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 749, 759)"
+P22,Implementation Coordination,E,"Proposes collaboration with partners to streamline implementation processes and accelerate learning (p. 747, 763).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 747, 763)"
+P22,Responsible AI Governance,E,"Recommends adopting robust governance frameworks to ensure data handling is secure and decisions are explainable (p. 747, 762).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 747, 762)"
+P22,Value Creation,E,"AI aims to democratise finance, improve investor outcomes, and provide higher-quality customer engagement (p. 747, 759).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 747, 759)"
+P22,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P23,AI Characteristics,E,Key functional features include anomaly detection algorithms and predictive analytics (p. 20).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 20)
+P23,Task Fit,E,"AI improves quality by freeing auditors' time from tedious data input for judgment-based work (p. 20, 22).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 20, 22)"
+P23,Data Readiness,E,"AI enables auditors to effectively examine ""big datasets"" to spot irregularities traditional methods miss (p. 20, 22).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 20, 22)"
+P23,Organizational Readiness,E,Conservative organizational cultures and lack of resources in smaller firms are noted as barriers (p. 20).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 20)
+P23,AI Literacy,E,"Lack of experience is a challenge, emphasizing the need for targeted training to promote adoption (p. 20).",AI Literacy,Existing extraction note; not independently verified against full text,(p. 20)
+P23,Capability Development,E,"Professional skepticism is aided by AI, increasing auditors' understanding of client entities (p. 22, 24).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 22, 24)"
+P23,Sensemaking,E,"Auditors' performance and effort expectations are the primary cognitive drivers influencing usage intention (p. 20, 24).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 20, 24)"
+P23,Adaptation/Resistance,E,"Notes smaller businesses face ""doubts about the ROI"" of AI investments, hindering uptake (p. 20).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,(p. 20)
+P23,Routinization,E,"AI automates reconciliation and journal entry testing, embedding technology into standard audit workflows (p. 20, 21).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 20, 21)"
+P23,AI Strategy,E,AI adoption is seen as a driver to maintain audit quality and competitiveness in a technologically advanced setting (p. 20).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 20)
+P23,AI Use Case,E,"Evaluated for fraud risk identification, checking accuracy of electronic files, and re-do procedures (p. 21, 22).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 21, 22)"
+P23,Implementation Coordination,E,"Organizational support is needed to drive AI integration and reduce psychological barriers (p. 20, 21).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 20, 21)"
+P23,Responsible AI Governance,E,Adoption ensures audits satisfy legal requirements and maintain the integrity of financial statements (p. 20).,Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 20)
+P23,Value Creation,E,AI adoption dramatically improves sustainable audit quality and auditor productivity (p. 24).,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 24)
+P23,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P24,AI Characteristics,E,"Key features include machine learning, NLP, data analytics, and real-time monitoring (p. 2, 4).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 2, 4)"
+P24,Task Fit,E,"AI assists SMEs in adapting operations to sustainability-focused models and reducing environmental strain (p. 5, 12).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 5, 12)"
+P24,Data Readiness,E,"Real-time monitoring and data analytics help optimize energy consumption and lower carbon footprints (p. 4, 12).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 4, 12)"
+P24,Organizational Readiness,E,Barriers like lack of digital infrastructure and resistance to change impact readiness in Pakistani SMEs (p. 6).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 6)
+P24,AI Literacy,E,"AI's ability to ""personalize training"" helps educate employees on sustainability initiatives and behaviors (p. 8, 12).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 8, 12)"
+P24,Capability Development,E,Sustainable growth results from alignment of technological capabilities with human engagement and cultural support (p. 14).,Capability Development,Existing extraction note; not independently verified against full text,(p. 14)
+P24,Sensemaking,E,"High pro-environmental culture ensures that AI-driven strategies are successfully implemented and durable (p. 9, 13).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 9, 13)"
+P24,Adaptation/Resistance,E,"Resistance to change and implementation costs are identified as double-edged challenges in smaller firms (p. 6, 14).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 6, 14)"
+P24,Routinization,E,"AI-driven GHRM practices embed environmental awareness into firm routines like performance evaluation (p. 13, 15).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 13, 15)"
+P24,AI Strategy,E,"AI enables organizations to align business processes with global sustainability standards and green HRM goals (p. 2, 12).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 2, 12)"
+P24,AI Use Case,E,"Includes energy efficiency monitoring, waste reduction tracking, and AI-powered gamified training platforms (p. 2, 3).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 2, 3)"
+P24,Implementation Coordination,E,"AI adoption acts as a technological equalizer to reconfigure operations without large-scale overhaul (p. 12, 13).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 12, 13)"
+P24,Responsible AI Governance,E,"Future research suggested for ""ethical dimensions"" like algorithmic bias, data privacy, and transparency (p. 14).",Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 14)
+P24,Value Creation,E,"AI-driven systems reduced energy consumption by 25% within one year in Pakistan's manufacturing sector (p. 5, 10).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 5, 10)"
+P24,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P25,AI Characteristics,E,"Generative AI tools like ChatGPT and Grammarly are used for content generation and plagiarism detection (p. 1, 8, 14).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 1, 8, 14)"
+P25,Task Fit,E,"Successful adoption depends on the alignment between AI tools and librarians’ everyday professional tasks (p. 5, 12).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 5, 12)"
+P25,Data Readiness,E,Ethical concerns center on risk of data breaches and weak data governance in cloud-based tools (p. 10).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 10)
+P25,Organizational Readiness,E,"Poor digital infrastructure and limited institutional funding are significant structural barriers (p. 11, 12).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 11, 12)"
+P25,AI Literacy,E,"Librarians report proficiency in language tools but noticeable gaps in competence for literature analysis (p. 10, 13).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 10, 13)"
+P25,Capability Development,E,"Proposes intensive training to build digital competence and AI literacy across all professional ranks (p. 12, 13).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 12, 13)"
+P25,Sensemaking,E,"Librarians prioritize tools based on perceived usefulness for academic writing and user services (p. 12, 13).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 12, 13)"
+P25,Adaptation/Resistance,E,"Librarians expressed hesitation and fear of misuse due to lack of ethical professional standards (p. 13, 16).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 13, 16)"
+P25,Routinization,E,"Language tools like Grammarly are used daily by over 50% of respondents, becoming part of workflows (p. 12).",Routinisation,Existing extraction note; not independently verified against full text,(p. 12)
+P25,AI Strategy,E,"Proposes a holistic strategy encompassing institutional policy, inclusive training, and localisation of tools (p. 1, 12).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 1, 12)"
+P25,AI Use Case,E,"Identifies categories: content generation, plagiarism detection, literature analysis, and language enhancement (p. 6).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 6)
+P25,Implementation Coordination,E,"Calls for AI Ethics Committees and Governance Boards to foster informed, proactive leadership (p. 12, 13).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 12, 13)"
+P25,Responsible AI Governance,E,"Emphasizes data protection, academic integrity, and cultural insensitivity as core ethical adoption principles (p. 1, 10).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 1, 10)"
+P25,Value Creation,E,"AI tools optimize academic service delivery, research support, and streamline administrative workflows (p. 1, 2).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 1, 2)"
+P25,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P26,AI Characteristics,E,GenAI incorporates ML models and Natural Language Processing (NLP) to generate new content like text and images (p. 3).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 3)
+P26,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P26,Data Readiness,E,Accuracy of output is found to be a significant predictor of the use of GenAI (p. 41).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 41)
+P26,Organizational Readiness,E,"Organizational innovativeness significantly moderates the relationship between GenAI use and performance (p. 2, 41, 53).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 2, 41, 53)"
+P26,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P26,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P26,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P26,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P26,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P26,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P26,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P26,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P26,Responsible AI Governance,E,"Fairness, accountability, transparency, and autonomy are critical ethical principles influencing adoption (p. 2, 40-41, 51).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 2, 40-41, 51)"
+P26,Value Creation,E,"Use of GenAI significantly and positively impacts organizational performance (β = 0.348) (p. 41, 53).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 41, 53)"
+P26,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P27,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P27,Task Fit,E,Proficiency is defined as applying GenAI thoughtfully to meet specific work objectives and responsibilities (p. 169).,Task Fit,Existing extraction note; not independently verified against full text,(p. 169)
+P27,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P27,Organizational Readiness,E,"Change leadership (issue-focused guidance) significantly promotes employees' ethical adoption of GenAI (p. 169, 170).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 169, 170)"
+P27,AI Literacy,E,AI ethics is identified as one of the four core dimensions of AI literacy (p. 139).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 139)
+P27,Capability Development,E,Ethical adoption of GenAI leads to significantly higher proficient use of the technology on the job (p. 169).,Capability Development,Existing extraction note; not independently verified against full text,(p. 169)
+P27,Sensemaking,E,"Transparent communication helps reduce misunderstandings, anxiety, and confusion about GenAI changes (p. 141).",Sensemaking,Existing extraction note; not independently verified against full text,(p. 141)
+P27,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P27,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P27,AI Strategy,E,Leadership clearly communicating the vision and direction for work goals empowers employees to apply AI (p. 143).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 143)
+P27,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P27,Implementation Coordination,E,"Dynamic participation and feedback during training are critical to ensure desirable outcomes (p. 169, 171).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 169, 171)"
+P27,Responsible AI Governance,E,"Transparent communication (substantiality, participation, accountability) during training fosters ethical adoption (p. 136, 141).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 136, 141)"
+P27,Value Creation,E,Older individuals are more likely to ethically adopt AI but feel less confident using it proficiently (p. 151).,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 151)
+P27,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P28,AI Characteristics,E,"Identified tools include predictive analytics, chatbots, automated translation, and sentiment monitoring (p. 194).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 194)
+P28,Task Fit,E,AI is widely viewed as a transformational tool that enhances communication effectiveness and responsiveness (p. 194).,Task Fit,Existing extraction note; not independently verified against full text,(p. 194)
+P28,Data Readiness,E,"Lack of high-quality data and data privacy restrictions are identified as critical barriers (p. 195, 252).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 195, 252)"
+P28,Organizational Readiness,E,"Significant barriers include organizational resistance, skill gaps among graduates, and financial constraints (p. 195, 264, 266).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 195, 264, 266)"
+P28,AI Literacy,E,"Implementation requires investment in training to address digital literacy and expertise gaps (p. 196, 251, 266).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 196, 251, 266)"
+P28,Capability Development,E,"AI is conceptualized as a complement to human expertise rather than a replacement (p. 195, 242).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 195, 242)"
+P28,Sensemaking,E,"Professionals acknowledge potential but are guarded by reliability problems and fear of job displacement (p. 201, 266).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 201, 266)"
+P28,Adaptation/Resistance,E,"Observed cultural resistance and a ""mindset"" sticking to traditional ways among some officials (p. 250, 252).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 250, 252)"
+P28,Routinization,E,"Larger government media offices lead adoption, while smaller emirates are still scaling capabilities (p. 203, 264).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 203, 264)"
+P28,AI Strategy,E,"AI tools and implementation efforts align with national initiatives like the UAE AI Strategy 2031 (p. 195, 242).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 195, 242)"
+P28,AI Use Case,E,"Applications include social media monitoring, citizen engagement, and automated reporting (p. 201, 239).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 201, 239)"
+P28,Implementation Coordination,E,"Emphasizes the need for cross-departmental collaboration and strategic partnerships with academic institutions (p. 196, 244).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 196, 244)"
+P28,Responsible AI Governance,E,"Ethical governance must prioritize transparency, accountability, and cultural sensitivity to identity/values (p. 195, 254, 268).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 195, 254, 268)"
+P28,Value Creation,E,"AI improves communication efficiency and facilitates more data-driven decision-making for citizen services (p. 211, 275).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 211, 275)"
+P28,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P29,AI Characteristics,E,"Incorporates technologies for digital workplaces, intelligent power systems, and information encryption (p. 304).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 304)
+P29,Task Fit,E,"AI optimizes infrastructure design, route planning, and demand-side grid flexibility (p. 307).",Task Fit,Existing extraction note; not independently verified against full text,(p. 307)
+P29,Data Readiness,E,"Intricacy of incorporating AI into outdated governance frameworks and training on extensive datasets are hurdles (p. 310, 311).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 310, 311)"
+P29,Organizational Readiness,E,"Limited financial resources and outdated infrastructure are significant structural obstacles (p. 310, 311).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 310, 311)"
+P29,AI Literacy,E,Insufficient comprehension and proficiency of government officials hinder effective decision-making (p. 310).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 310)
+P29,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P29,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P29,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P29,Routinization,E,Resistance from government bodies is identified as a key obstacle to implementing smart governance (p. 310).,Routinisation,Existing extraction note; not independently verified against full text,(p. 310)
+P29,AI Strategy,E,"Requires strategic planning, innovative leadership, and budget distribution to surmount obstacles (p. 311, 312).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 311, 312)"
+P29,AI Use Case,E,"Identified uses in traffic congestion, water scarcity, pollution, and trash management (p. 306).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 306)
+P29,Implementation Coordination,E,Absence of standardized protocols hinders smooth interaction between AI systems and tech platforms (p. 311).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 311)
+P29,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P29,Value Creation,E,"Implementation raises concerns about bias, discrimination, surveillance, and human rights infringements (p. 306).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 306)
+P29,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P30,AI Characteristics,E,Uses the EU definition: machine-based systems operating with varying levels of autonomy (p. 321).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 321)
+P30,Task Fit,E,"AI is primarily associated with everyday administrative, planning, or customer-facing tasks (p. 368, 369).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 368, 369)"
+P30,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P30,Organizational Readiness,E,Financial differences reflect in adoption intensity; lower-revenue firms may have more centralized decision-making (p. 371).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 371)
+P30,AI Literacy,E,"Structural constraints and skill shortages are identified as significant barriers in restaurant SMEs (p. 323, 332).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 323, 332)"
+P30,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P30,Sensemaking,E,"Managers prioritize service authenticity and express concerns about the loss of human interaction (p. 323, 330).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 323, 330)"
+P30,Adaptation/Resistance,E,"Environmental CSR practices are negatively associated with AI attitudes, reflecting cautious evaluations (p. 320, 362, 368).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 320, 362, 368)"
+P30,Routinization,E,"AI adoption remains uneven and selective, used cautiously for operational rather than strategic integration (p. 366).",Routinisation,Existing extraction note; not independently verified against full text,(p. 366)
+P30,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P30,AI Use Case,E,"Tools include online booking/food ordering, interactive chatbots, CRM, and virtual assistants (p. 369, 384).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 369, 384)"
+P30,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P30,Responsible AI Governance,E,"Employee-related CSR practices are institutionalized baseline norms and do not differentiate attitudes toward AI (p. 320, 367).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 320, 367)"
+P30,Value Creation,E,"Financial performance (revenue) is not a direct outcome but a contextual factor shaping adoption decisions (p. 320, 361).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 320, 361)"
+P30,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P31,AI Characteristics,E,"AI encompasses programs, algorithms, and machines designed to imitate human behavior for problem-solving (p. 405).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 405)
+P31,Task Fit,E,"AI interventions address unique food sector challenges like product perishability and quality deterioration (p. 409, 412).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 409, 412)"
+P31,Data Readiness,E,"Sufficient security and privacy for data protection are the second-ranked technological sub-dimensions (p. 439, 442).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 439, 442)"
+P31,Organizational Readiness,E,"Adequate top management support and establishing sufficient organizational resources are critical enablers (p. 417, 446).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 417, 446)"
+P31,AI Literacy,E,"Proper training for staff and end-users is an influential human-dimension success factor (p. 419, 445).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 419, 445)"
+P31,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P31,Sensemaking,E,"Institutional trust (beliefs about safety) is identified as a prominent environmental success factor (p. 418, 443).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 418, 443)"
+P31,Adaptation/Resistance,E,"Behavioral change management initiatives are required to facilitate organizational adoption (p. 417, 442).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 417, 442)"
+P31,Routinization,E,AI integration in the Indian food supply chain is still in the nascent phase (p. 453).,Routinisation,Existing extraction note; not independently verified against full text,(p. 453)
+P31,AI Strategy,E,"A clear linkage between vision and strategy is a key organizational critical success factor (p. 417, 446).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 417, 446)"
+P31,AI Use Case,E,"Used for real-time tracking information to minimize shipment challenges and production yields (p. 413, 452).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 413, 452)"
+P31,Implementation Coordination,E,"Information sharing and communication among supply chain partners are vital for adopting AI (p. 419, 445).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 419, 445)"
+P31,Responsible AI Governance,E,"Regulatory compliance and ethics in data collection are significant environmental factors for adoption (p. 418, 439).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 418, 439)"
+P31,Value Creation,E,Customer satisfaction achieved through error reduction and better traceability is a primary human factor (p. 445).,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 445)
+P31,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P32,AI Characteristics,E,"Adoption shifts the focus from augmentation (human-AI collaboration) to automation (autonomous decisions) (p. 506, 507).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 506, 507)"
+P32,Task Fit,E,"Automation handles structured ""monkey tasks,"" while humans handle difficult, unstructured, and creative tasks (p. 506, 586).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 506, 586)"
+P32,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P32,Organizational Readiness,E,"Firms with higher exploration orientation realize greater job enrichment and handle higher adoption levels (p. 519, 591).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 519, 591)"
+P32,AI Literacy,E,Employees must reorient themselves by learning new skills to excel in tasks requiring human elements (p. 590).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 590)
+P32,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P32,Sensemaking,E,Employees view AI as both a helpful collaborator and a potential adversary (p. 586).,Sensemaking,Existing extraction note; not independently verified against full text,(p. 586)
+P32,Adaptation/Resistance,E,"Resistance stems from role disorientation, occupational identity threats, and fears of displacement (p. 516, 525).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 516, 525)"
+P32,Routinization,E,"AI adoption manifests by changing job characteristics—complexity and autonomy—rather than creating new jobs (p. 502, 590).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 502, 590)"
+P32,AI Strategy,E,"Exploration orientation (innovation focus) shifts the peak satisfaction point to higher levels of adoption (p. 494, 556, 583).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 494, 556, 583)"
+P32,AI Use Case,E,"Evaluation covers demand forecasting, virtual agents, and robotic process automation (p. 596).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 596)
+P32,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P32,Responsible AI Governance,E,"Pronounced data governance (quality/availability management) flattens the curve of the AI-job satisfaction relationship (p. 500, 559).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 500, 559)"
+P32,Value Creation,E,"At high adoption levels, impairment effects (information overload, deskilling) outweigh enrichment benefits, reducing satisfaction (p. 516, 588).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 516, 588)"
+P32,Risk Outcomes,E,"Stakeholder Value & Organisational Performance: At high adoption levels, impairment effects (information overload, deskilling) outweigh enrichment benefits, reducing satisfaction (p. 516, 588).",Stakeholder Value & Organisational Performance,Retrospective classification of supplied extraction notes; full-text confirmation pending,"(p. 516, 588)"
+P33,AI Characteristics,E,"GAI produces human-like content and learns from user interactions and prompts (p. 638, 640).",AI Characteristics,Existing extraction note; not independently verified against full text,"(p. 638, 640)"
+P33,Task Fit,E,Appropriation depends on how well social and technological structures are jointly optimized (p. 646).,Task Fit,Existing extraction note; not independently verified against full text,(p. 646)
+P33,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P33,Organizational Readiness,E,Empowerment climate and technology platform quality are structural antecedents to appropriation (p. 655).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 655)
+P33,AI Literacy,E,Professional training programs should be tailored to the individual's level of appropriation (p. 700).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 700)
+P33,Capability Development,E,"Appropriation aids in the development of skills, knowledge, and organizational competencies (p. 653).",Capability Development,Existing extraction note; not independently verified against full text,(p. 653)
+P33,Sensemaking,E,Appropriation reflects users’ efforts to create their own sense of the technology (p. 654).,Sensemaking,Existing extraction note; not independently verified against full text,(p. 654)
+P33,Adaptation/Resistance,E,"Customised appropriation involves user-centric ""workarounds"" and reconfiguration outside envisioned usage (p. 642, 693, 695, 701).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 642, 693, 695, 701)"
+P33,Routinization,E,"Integrative appropriation captures how users embed tools into everyday organizational routines and practices (p. 653, 691).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 653, 691)"
+P33,AI Strategy,E,"Scale provides a roadmap for professionals to achieve strategic goals through effective AI use (p. 643, 649).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 643, 649)"
+P33,AI Use Case,E,"Used for everyday work tasks like problem-solving, decision-making, time management, and brainstorming (p. 691).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 691)
+P33,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P33,Responsible AI Governance,E,"Ethical appropriation measures the ethical or unethical intent behind using technology beyond developer intent (p. 697, 698).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 697, 698)"
+P33,Value Creation,E,High levels of GAIA positively and significantly influence individual creative performance (ICP) (p. 689).,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 689)
+P33,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P34,AI Characteristics,E,"AI system features include reliability, explainability, intelligibility, and adaptability (p. 792).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 792)
+P34,Task Fit,E,"Task-technology fit significantly predicts adoption intention; technology adaptability determines fit more than task variability (p. 766, 817, 834).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 766, 817, 834)"
+P34,Data Readiness,E,"Institutionalized basic infrastructure (IT support, connectivity) acts as a hygiene factor rather than a motivator (p. 824).",Data Readiness,Existing extraction note; not independently verified against full text,(p. 824)
+P34,Organizational Readiness,E,Leadership commitment and innovation-friendly cultures encourage experimentation and reduce fear (p. 785).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 785)
+P34,AI Literacy,E,Recommends continuous reskilling programs and peer knowledge-sharing to sustain long-term engagement (p. 839).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 839)
+P34,Capability Development,E,AI is perceived as augmentative to cognitive and analytical capabilities (p. 824).,Capability Development,Existing extraction note; not independently verified against full text,(p. 824)
+P34,Sensemaking,E,"Employees acknowledgment of potential is tempered by job replacement anxiety (p. 765, 834).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 765, 834)"
+P34,Adaptation/Resistance,E,"Resistance to use acts as a significant inhibitor of employees' behavioral intentions (p. 766, 834).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 766, 834)"
+P34,Routinization,E,AI adoption is a cognitive and socio-technical process embedded in everyday work (p. 768).,Routinisation,Existing extraction note; not independently verified against full text,(p. 768)
+P34,AI Strategy,E,"E&E context represents a digitally ambidextrous environment where AI enhances professional capability (p. 821, 839).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 821, 839)"
+P34,AI Use Case,E,"Applications include data classification, trend detection, and predictive analytics (p. 791).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 791)
+P34,Implementation Coordination,E,"Transparent communication and participatory implementation strategies mitigate perceived threats (p. 820, 835).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 820, 835)"
+P34,Responsible AI Governance,E,Redesigning workflows to maintain human agency and decision-making authority alongside AI is necessary (p. 838).,Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 838)
+P34,Value Creation,E,"Intention is indirectly influenced by job-replacement anxiety, which heightens resistance (p. 834).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 834)
+P34,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P35,AI Characteristics,E,AI analyzes extensive datasets and provides actionable insights via predictive analytics (p. 887).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 887)
+P35,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P35,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P35,Organizational Readiness,E,"Measured via financial resources, quantity of R&D projects, and percentage of R&D personnel (p. 899, 902).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 899, 902)"
+P35,AI Literacy,E,High academic qualifications (educated mid-career professionals) are essential in theChanging environment (p. 883).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 883)
+P35,Capability Development,E,AIA facilitates the creation of flexible and adaptable organizational capabilities (p. 892).,Capability Development,Existing extraction note; not independently verified against full text,(p. 892)
+P35,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P35,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P35,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P35,AI Strategy,E,Strategic direction enables leaders to prioritize investments that are both financially and ecologically sustainable (p. 916).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 916)
+P35,AI Use Case,E,AI is used to provide tailored consumer experiences (p. 887).,AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 887)
+P35,Implementation Coordination,E,Emphasizes public-private interactions and collaborations in promoting innovation (p. 917).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 917)
+P35,Responsible AI Governance,E,"Government engagement (assistance, regulatory incentives) significantly moderates the relationship between AIA and competitiveness (p. 879, 908).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 879, 908)"
+P35,Value Creation,E,AIA significantly contributes to enhancing firm competitiveness and profitability (p. 905).,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 905)
+P35,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P36,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P36,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P36,Data Readiness,E,"Data governance (quality, integrity, security) is the strongest predictor of ethical AI adoption (p. 940, 976).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 940, 976)"
+P36,Organizational Readiness,E,"Private hospitals and startups show more structured data procedures than public sector facilities (p. 976, 980).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 976, 980)"
+P36,AI Literacy,E,"Low awareness and ad hoc training on ethical responsibility are major readiness gaps (p. 969, 979, 983).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 969, 979, 983)"
+P36,Capability Development,E,"Strengthening human ethical capacity through interdisciplinary curricula is a foundational pillar (p. 984, 985).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 984, 985)"
+P36,Sensemaking,E,"Ethical culture and guidance from leaders are key to staff viewing ethics as part of their job (p. 978, 980).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 978, 980)"
+P36,Adaptation/Resistance,E,Staff struggle to critically evaluate tools or identify ethical red flags due to low awareness (p. 969).,Adaptation/Resistance,Existing extraction note; not independently verified against full text,(p. 969)
+P36,Routinization,E,"Accountability structures (ethics committees) are present but remain unevenly implemented (p. 970, 984).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 970, 984)"
+P36,AI Strategy,E,"Proposes Afrocentric ethical policy frameworks inspired by African philosophies like Ubuntu (p. 940, 985).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 940, 985)"
+P36,AI Use Case,E,"Used for predictive diagnosis, predicting epidemics, and managing digital health data (p. 941, 954).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 941, 954)"
+P36,Implementation Coordination,E,"multi-stakeholder approach involving policymakers, ICT officers, and clinical end-users is required (p. 959).",Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 959)
+P36,Responsible AI Governance,E,"Organizational accountability (reporting structures, audits) is a significant predictor of ethical adoption (p. 940, 984).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 940, 984)"
+P36,Value Creation,E,"Ethical AI adoption aims to improve care accuracy without compromising patient rights (p. 971, 985).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 971, 985)"
+P36,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P37,AI Characteristics,E,"Features include automated data entry, optical character recognition (OCR), and anomaly detection (p. 1006).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 1006)
+P37,Task Fit,E,"AI automates transaction validation, risk analysis, and detail testing in accounting systems (p. 1006).",Task Fit,Existing extraction note; not independently verified against full text,(p. 1006)
+P37,Data Readiness,E,"Management of highly confidential financial information necessitates rigorous data security protocols (p. 1009, 1043).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 1009, 1043)"
+P37,Organizational Readiness,E,"Older systems may lack architectural framework for AI, requiring significant integration effort (p. 1010).",Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 1010)
+P37,AI Literacy,E,"Training should prioritize responsible utilization, ethical decision-making, and understanding bias (p. 1043).",AI Literacy,Existing extraction note; not independently verified against full text,(p. 1043)
+P37,Capability Development,E,Recurring need to develop experts with dual expertise in both accounting and AI (p. 1009).,Capability Development,Existing extraction note; not independently verified against full text,(p. 1009)
+P37,Sensemaking,E,"Transparency regarding AI's function in decision-making is essential for building user trust (p. 1014, 1015).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 1014, 1015)"
+P37,Adaptation/Resistance,E,Resistance arises from fears of human displacement and skepticism regarding computer conclusions (p. 1011).,Adaptation/Resistance,Existing extraction note; not independently verified against full text,(p. 1011)
+P37,Routinization,E,AI shifts focus from mundane tasks to data-driven analysis and strategic decision-making (p. 1007).,Routinisation,Existing extraction note; not independently verified against full text,(p. 1007)
+P37,AI Strategy,E,Framework recommends formulating a long-term ethical strategy to guide responsible integration (p. 1041).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 1041)
+P37,AI Use Case,E,"Applications include fraud detection, tax optimization, and management control systems (p. 1006, 998).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 1006, 998)"
+P37,Implementation Coordination,E,Recommends establishing ethical review boards with experts from various disciplines (p. 1043).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 1043)
+P37,Responsible AI Governance,E,Transparency and data privacy are the most significant positive influences on AI use (p. 1040).,Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 1040)
+P37,Value Creation,E,"AI improves operational efficiency, reduced time/effort waste, and consistency in auditing (p. 1007).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 1007)
+P37,Risk Outcomes,E,Adaptation/Resistance: Resistance arises from fears of human displacement and skepticism regarding computer conclusions (p. 1011).,Adaptation/Resistance,Retrospective classification of supplied extraction notes; full-text confirmation pending,(p. 1011)
+P38,AI Characteristics,E,"coversinterlinked technologies: data mining, ML, speech/image recognition, and sentiment analysis (p. 1069).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 1069)
+P38,Task Fit,E,"AI is particularly beneficial for product pricing, promotion, and marketing budget allocation (p. 1066).",Task Fit,Existing extraction note; not independently verified against full text,(p. 1066)
+P38,Data Readiness,E,"Data usefulness and the difficulty of data acquisition are the top two critical factors (p. 1083, 1092).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 1083, 1092)"
+P38,Organizational Readiness,E,"Organizational change capability is a critical factor for applying AI effectively (p. 1083, 1093, 1096).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 1083, 1093, 1096)"
+P38,AI Literacy,E,"Ongoing communication, education, and training are prioritized to reduce adoption failure risk (p. 1100).",AI Literacy,Existing extraction note; not independently verified against full text,(p. 1100)
+P38,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P38,Sensemaking,E,"Top management prioritizes business performance (customer value) over system functional efficiency (p. 1063, 1095, 1104).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 1063, 1095, 1104)"
+P38,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P38,Routinization,E,AI adoption in Taiwan’s retail industry is noted as being in its infancy (p. 1067).,Routinisation,Existing extraction note; not independently verified against full text,(p. 1067)
+P38,AI Strategy,E,Recommends adopting strategies for data management to obtain solutions for value creation (p. 1066).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 1066)
+P38,AI Use Case,E,"Used for chatbots and personalized consumer journey maps based on physical location (p. 1066, 1075).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 1066, 1075)"
+P38,Implementation Coordination,E,Cross-departmental collaboration is necessary to propose innovative business models (p. 1102).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 1102)
+P38,Responsible AI Governance,E,"Laws and regulations influence adoption, though internal controllable factors are deemed more important (p. 1077, 1094).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 1077, 1094)"
+P38,Value Creation,E,"AI application yields substantial benefits and maintains sustainable competitive advantage (p. 1064, 1066).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 1064, 1066)"
+P38,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P39,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P39,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P39,Data Readiness,E,Big data utilization (β=0.09) and trust/security mechanisms (β=0.36) significantly enable the technological infrastructure required for adoption (p. 15).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 15)
+P39,Organizational Readiness,E,"Managerial capability exerts a strong positive influence on AI adoption (β=0.29); traditional factors like support alone were insufficient without technological integration (p. 15, 16).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 15, 16)"
+P39,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P39,Capability Development,E,"Integrated digital platforms and big data enhance managers' ability to coordinate, plan, and execute strategic decisions (p. 15).",Capability Development,Existing extraction note; not independently verified against full text,(p. 15)
+P39,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P39,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P39,Routinization,E,Identifies an implementation gap where managers struggle to translate formal readiness structures into tangible capabilities (p. 14).,Routinisation,Existing extraction note; not independently verified against full text,(p. 14)
+P39,AI Strategy,E,Aligns with Vision 2030 digital transformation goals to strengthen institutional performance and higher education outcomes (p. 3).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 3)
+P39,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P39,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P39,Responsible AI Governance,E,Finds that organizations rely on regulatory clarity and institutional support before fully leveraging AI technologies (p. 16).,Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 16)
+P39,Value Creation,U,,Stakeholder Value & Organisational Performance,No source extraction supplied; not evidence of absence,
+P39,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P40,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P40,Task Fit,E,"Fits the front-end planning phase by enabling data-driven analyses, predictive insights, and improved decision-making to reduce project failure (p. 5).",Task Fit,Existing extraction note; not independently verified against full text,(p. 5)
+P40,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P40,Organizational Readiness,E,"Readiness is defined via maturity (culture, resources, processes) and absorptive capacity; maturity directly increases the ability to assimilate AI (p. 10, 15).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 10, 15)"
+P40,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P40,Capability Development,E,"Absorptive capacity measures the organization's learning and innovation capacity, allowing it to apply external AI knowledge to performance (p. 12, 14).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 12, 14)"
+P40,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P40,Adaptation/Resistance,E,"Employees often misunderstand AI advantages, fearing job replacement, which constitutes the most significant challenge to readiness (p. 15, 16).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 15, 16)"
+P40,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P40,AI Strategy,E,Requires public organisations to map their strategies with Saudi Arabia’s Vision 2030 long-term plans (p. 3).,AI Strategy,Existing extraction note; not independently verified against full text,(p. 3)
+P40,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P40,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P40,Responsible AI Governance,E,"Government support includes establishing the rules, regulations, policies, and legal frameworks necessary to develop innovation (p. 14).",Responsible AI Governance,Existing extraction note; not independently verified against full text,(p. 14)
+P40,Value Creation,U,,Stakeholder Value & Organisational Performance,No source extraction supplied; not evidence of absence,
+P40,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P41,AI Characteristics,E,"Machine learning models capable of producing new, context-specific content rather than merely classifying data (p. 2).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 2)
+P41,Task Fit,E,"Augments human sellers by generating tailored proposals, email drafts, and product descriptions in daily sales workflows (p. 2, 28).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 2, 28)"
+P41,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P41,Organizational Readiness,E,"Exploitative innovation is directly associated with performance, while exploratory innovation's effect operates indirectly through GenAI adoption (p. 2).",Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 2)
+P41,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P41,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P41,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P41,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P41,Routinization,E,Experimentation becomes more performance-relevant when translated into digitally enabled routines (p. 2).,Routinisation,Existing extraction note; not independently verified against full text,(p. 2)
+P41,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P41,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P41,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P41,Responsible AI Governance,E,"Ethical governance is the strongest correlate of long-term performance, positioning responsible conduct as a core organisational capability (p. 2, 22).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 2, 22)"
+P41,Value Creation,E,"GenAI adoption accounts for substantial variance in sustainable performance (R2=0.823) when aligned with governance and innovation (p. 17, 21).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 17, 21)"
+P41,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P42,AI Characteristics,E,"Enabled by neural network architectures like GANs and transformer models to create novel text, image, and code content (p. 303).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 303)
+P42,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P42,Data Readiness,E,"Firms often lack the infrastructure to generate, clean, and organize the high-quality training data required for GenAI (p. 305).",Data Readiness,Existing extraction note; not independently verified against full text,(p. 305)
+P42,Organizational Readiness,E,"Identifies a passive industry ""wait-and-see"" stance, prioritizing external government-led initiatives over internal change for adoption (p. 302).",Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 302)
+P42,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P42,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P42,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P42,Adaptation/Resistance,E,"Psychological barriers include fear of displacement due to automation (mean=3.595) and resistance to change (mean=3.405) (p. 317, 321).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 317, 321)"
+P42,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P42,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P42,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P42,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P42,Responsible AI Governance,E,"High significance is placed on developing output validation mechanisms and clear legal frameworks to handle AI-related disputes (p. 324, 325).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 324, 325)"
+P42,Value Creation,U,,Stakeholder Value & Organisational Performance,No source extraction supplied; not evidence of absence,
+P42,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P43,AI Characteristics,E,Probabilistic models generating unique responses that blur authorship and complicate responsibility attribution (p. 357).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 357)
+P43,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P43,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P43,Organizational Readiness,E,"Highlights significant capacity constraints, including absent strategies, limited budgets, weak workflow integration, and inadequate training (p. 355).",Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 355)
+P43,AI Literacy,E,Users interact easily but lack prompt engineering and judgment skills to detect hallucinations or data leakage (p. 372).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 372)
+P43,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P43,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P43,Adaptation/Resistance,E,"Reframes resistance not as technophobia but as a rational response to structural voids and capacity gaps (p. 355, 373).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 355, 373)"
+P43,Routinization,E,"Bottom-up experimentation (shadow adoption) occurs because GenAI is not yet embedded in formal organizational routines (p. 355, 372).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 355, 372)"
+P43,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P43,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P43,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P43,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P43,Value Creation,U,,Stakeholder Value & Organisational Performance,No source extraction supplied; not evidence of absence,
+P43,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P44,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P44,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P44,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P44,Organizational Readiness,E,"Treats technology readiness (optimism, discomfort, innovativeness, insecurity) as an internal organisational stimulus driving adoption (p. 438, 443).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 438, 443)"
+P44,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P44,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P44,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P44,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P44,Routinization,E,Early stage results show mismatches between GenAI capabilities and existing supply chain processes (p. 447).,Routinisation,Existing extraction note; not independently verified against full text,(p. 447)
+P44,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P44,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P44,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P44,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P44,Value Creation,E,"GenAI significantly mediates circular and sustainable supply chain performance, but its impact on efficiency was insignificant (p. 446, 447).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 446, 447)"
+P44,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P45,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P45,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P45,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P45,Organizational Readiness,E,"Organisational readiness (financial resources, experts, culture) is positively correlated with adoption; leader support is critical for prioritizing funds (p. 469, 475).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 469, 475)"
+P45,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P45,Capability Development,E,Adoption significantly influences both exploratory and exploitative innovation behaviors within government departments (p. 490).,Capability Development,Existing extraction note; not independently verified against full text,(p. 490)
+P45,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P45,Adaptation/Resistance,E,"""Perceived Threat""—the belief that jobs can be replaced—acts as a factor negatively moderating innovation outcomes (p. 479, 488).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 479, 488)"
+P45,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P45,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P45,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P45,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P45,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P45,Value Creation,U,,Stakeholder Value & Organisational Performance,No source extraction supplied; not evidence of absence,
+P45,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P46,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P46,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P46,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P46,Organizational Readiness,E,"Adoption is primarily led by top-level executive leadership, though 23.2% of respondents were unaware of the leader (p. 532).",Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 532)
+P46,AI Literacy,E,"Formal training is low (42.4%), mostly focusing on basic orientation rather than clinical or technical use (p. 532, 533).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 532, 533)"
+P46,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P46,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P46,Adaptation/Resistance,E,"Key barriers include lack of knowledge (24.7%), fear of job loss (16.9%), and staff resistance to change (6.5%) (p. 535).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,(p. 535)
+P46,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P46,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P46,AI Use Case,E,"Most common uses are report writing (43.1%), research (27.7%), and patient care (26.2%) (p. 534).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 534)
+P46,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P46,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P46,Value Creation,E,AI is perceived as most useful for patient care and management by 86.9% of providers (p. 532).,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,(p. 532)
+P46,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P47,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P47,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P47,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P47,Organizational Readiness,E,Readiness is leadership-centric; employee capability enhances intention but is secondary to management support and resource allocation (p. 587).,Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 587)
+P47,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P47,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P47,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P47,Adaptation/Resistance,E,"Leadership endorsement fosters alignment across multicultural workforces, thereby reducing resistance to AI initiatives (p. 587).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,(p. 587)
+P47,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P47,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P47,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P47,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P47,Responsible AI Governance,E,"Government regulations are significantly and positively associated with AI adoption intention (β=0.43, p=0.000) (p. 584, 587).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 584, 587)"
+P47,Value Creation,U,,Stakeholder Value & Organisational Performance,No source extraction supplied; not evidence of absence,
+P47,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P48,AI Characteristics,E,Incorporates automated predefined tasks and predictive analytics for workforce management (p. 31).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 31)
+P48,Task Fit,E,"Streamlines HR functions including recruitment, selection, and performance monitoring (p. 31, 37).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 31, 37)"
+P48,Data Readiness,E,Finds that data availability and infrastructure are critical for supporting implementation (p. 34).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 34)
+P48,Organizational Readiness,E,"Observes that general perceptions of preparedness are insufficient without technological enablers and infrastructure (p. 34, 38).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 34, 38)"
+P48,AI Literacy,E,Identifies technical skill as a necessary technological readiness component (p. 32).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 32)
+P48,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P48,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P48,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P48,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P48,AI Strategy,E,"AI adoption acts as a mediating mechanism connecting contextual enablers to HRM outcomes (p. 30, 36).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 30, 36)"
+P48,AI Use Case,E,Identifies applications in talent acquisition and workforce planning (p. 31).,AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 31)
+P48,Implementation Coordination,E,"Coalesces competitive dynamics, technological capability, and governance mechanisms to produce outcomes (p. 36, 37).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 36, 37)"
+P48,Responsible AI Governance,E,"Security and privacy concerns regarding data protection and ethical use significantly impact adoption (p. 32, 38).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 32, 38)"
+P48,Value Creation,E,"Significantly improves HRM effectiveness in terms of decision quality, operational efficiency, and strategic outcomes (p. 31, 38).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 31, 38)"
+P48,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P49,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P49,Task Fit,E,"Applied across production, development, logistics, decision-making, and service functions (p. 4).",Task Fit,Existing extraction note; not independently verified against full text,(p. 4)
+P49,Data Readiness,E,"Critically evaluates data quality, availability, and management throughout the AI lifecycle (p. 10, 21).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 10, 21)"
+P49,Organizational Readiness,E,"Readiness is context-sensitive, influenced by financial stability, innovation capacity, and top management support (p. 2, 9).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 2, 9)"
+P49,AI Literacy,E,Emphasizes increasing digital literacy and employee analytical skills via human resource management (p. 10).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 10)
+P49,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P49,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P49,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P49,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P49,AI Strategy,E,"Strategy model aligns AIA feasibility with achieving sustainable business results (p. 1, 14).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 1, 14)"
+P49,AI Use Case,E,"Framework includes criteria for exploring potential organizational benefits and use case possibilities (p. 9, 21).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 9, 21)"
+P49,Implementation Coordination,E,"Requires cross-departmental coordination to define, document, and monitor work toward AI goals (p. 10).",Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 10)
+P49,Responsible AI Governance,E,"Incorporates ethical principles and regulatory compliance into the evaluation framework for responsible adoption (p. 10, 21).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 10, 21)"
+P49,Value Creation,E,"High adoption potential coupled with managerial understanding fosters higher productivity, efficiency, and competitiveness (p. 1, 14, 21).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 1, 14, 21)"
+P49,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P50,AI Characteristics,E,"Classifies tools including LLMs, generative design platforms, and forecasting/simulation models (p. 243).",AI Characteristics,Existing extraction note; not independently verified against full text,(p. 243)
+P50,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P50,Data Readiness,E,"Identifies data quality and availability as the most significant technological barriers to effective modeling (p. 247, 257).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 247, 257)"
+P50,Organizational Readiness,E,"Identifies limited financial resources and human capital as major organizational barriers, especially for SMEs (p. 247, 255).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 247, 255)"
+P50,AI Literacy,E,"Shortage of skilled professionals and AI-literate talent is a common barrier (p. 247, 254).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 247, 254)"
+P50,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P50,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P50,Adaptation/Resistance,E,"Identifies employee resistance to change as a significant organizational barrier (p. 247, 257).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 247, 257)"
+P50,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P50,AI Strategy,E,"Aligns GenAI initiatives with global sustainability mandates and UN SDGs (p. 241, 243).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 241, 243)"
+P50,AI Use Case,E,"Identifies use cases in emissions forecasting, logistics route management, and materials consumption reduction (p. 243, 254).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 243, 254)"
+P50,Implementation Coordination,E,"Outcomes are contingent upon coordinating technological readiness, regulatory support, and supply chain collaboration (p. 254).",Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 254)
+P50,Responsible AI Governance,E,"Emphasizes managing regulatory hurdles and data governance frameworks to manage privacy and legal risks (p. 251, 260).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 251, 260)"
+P50,Value Creation,E,"Optimizes resource utilization, reduces waste, and improves environmental performance across the triple bottom line (p. 243, 254).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 243, 254)"
+P50,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P51,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P51,Task Fit,E,"Potential to support documentation, summarization, and administrative tasks (p. 2).",Task Fit,Existing extraction note; not independently verified against full text,(p. 2)
+P51,Data Readiness,E,"Linked to weak infrastructure, paper-based workflows, and fragmented records (p. 10, 11).",Data Readiness,Existing extraction note; not independently verified against full text,"(p. 10, 11)"
+P51,Organizational Readiness,E,"Major barriers include constrained budgets, underdeveloped governance, and low confidence in technology (p. 2, 11).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 2, 11)"
+P51,AI Literacy,E,"Identifies limited digital literacy as a primary workforce readiness barrier (p. 2, 10).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 2, 10)"
+P51,Capability Development,E,"Workforce training and mentoring are key enablers for effective tool use (p. 10, 11).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 10, 11)"
+P51,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P51,Adaptation/Resistance,E,"Staff overload and low confidence can increase resistance when systems are perceived as disruptive (p. 3, 11).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 3, 11)"
+P51,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P51,AI Strategy,E,"Strategy requires alignment with national digital health initiatives and standards (p. 3, 10).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 3, 10)"
+P51,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P51,Implementation Coordination,E,"Institutional partnerships with universities and government help fill internal capability gaps (p. 3, 10).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 3, 10)"
+P51,Responsible AI Governance,E,"Identifies underdeveloped governance, weak privacy practices, and unclear accountability as major implementation risks (p. 2, 11).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 2, 11)"
+P51,Value Creation,E,"Aims for safe, locally appropriate, and sustainable service delivery in low-resource healthcare settings (p. 2, 12).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 2, 12)"
+P51,Risk Outcomes,E,"Responsible AI Governance: Identifies underdeveloped governance, weak privacy practices, and unclear accountability as major implementation risks (p. 2, 11).",Responsible AI Governance,Retrospective classification of supplied extraction notes; full-text confirmation pending,"(p. 2, 11)"
+P52,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P52,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P52,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P52,Organizational Readiness,E,"Perceived organizational knowledge and openness to innovation positively impact intentions (p. 1, 5).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 1, 5)"
+P52,AI Literacy,E,Organizational knowledge and employees' capacity to learn operations influence effort expectations (p. 2).,AI Literacy,Existing extraction note; not independently verified against full text,(p. 2)
+P52,Capability Development,E,"Strengthening knowledge integration capability helps store, extend, and apply knowledge for sustained use (p. 3, 6).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 3, 6)"
+P52,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P52,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P52,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P52,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P52,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P52,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P52,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P52,Value Creation,E,"Behavioral intentions and knowledge integration capability significantly predict actual AI use (p. 5, 6).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 5, 6)"
+P52,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P53,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P53,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P53,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P53,Organizational Readiness,U,,Organisational Readiness,No source extraction supplied; not evidence of absence,
+P53,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P53,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P53,Sensemaking,E,"Adoption involves relational processes where users make sense of technology within their specific context (p. 3, 5).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 3, 5)"
+P53,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P53,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P53,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P53,AI Use Case,E,"Identifies experiments in content generation, quality review, and using operational material for queries (p. 6).",AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 6)
+P53,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P53,Responsible AI Governance,U,,Responsible AI Governance,No source extraction supplied; not evidence of absence,
+P53,Value Creation,U,,Stakeholder Value & Organisational Performance,No source extraction supplied; not evidence of absence,
+P53,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P54,AI Characteristics,E,Advanced systems using specialized AI agents and shared memory to pursue multi-step goals autonomously (p. 5).,AI Characteristics,Existing extraction note; not independently verified against full text,(p. 5)
+P54,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P54,Data Readiness,E,Fragmented data architectures and inconsistent stewardship in SMEs act as structural barriers (p. 8).,Data Readiness,Existing extraction note; not independently verified against full text,(p. 8)
+P54,Organizational Readiness,E,"Barriers include political instability, regulatory uncertainty, and high costs of adoption (p. 21).",Organisational Readiness,Existing extraction note; not independently verified against full text,(p. 21)
+P54,AI Literacy,E,"Shortage of skilled employees and lack of knowledge about agentic AI are critical internal barriers (p. 7, 21).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 7, 21)"
+P54,Capability Development,E,"Requires developing dynamic capabilities (sensing, seizing, reconfiguring) to achieve strategic agility (p. 21).",Capability Development,Existing extraction note; not independently verified against full text,(p. 21)
+P54,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P54,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P54,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P54,AI Strategy,U,,AI Strategy,No source extraction supplied; not evidence of absence,
+P54,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P54,Implementation Coordination,E,"Fostering public-private partnerships is recommended to overcome institutional maturity gaps (p. 2, 20).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 2, 20)"
+P54,Responsible AI Governance,E,"Accountability and liability are fundamentally unclear for agentic decisions, increasing legal risks (p. 7, 10).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 7, 10)"
+P54,Value Creation,E,"Aims to provide continuous optimization and adaptive problem-solving across processes (p. 5, 20).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 5, 20)"
+P54,Risk Outcomes,E,"Responsible AI Governance: Accountability and liability are fundamentally unclear for agentic decisions, increasing legal risks (p. 7, 10).",Responsible AI Governance,Retrospective classification of supplied extraction notes; full-text confirmation pending,"(p. 7, 10)"
+P55,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P55,Task Fit,E,"Scoping applicability within software engineering tasks is a key best practice for adoption (p. 2, 25).",Task Fit,Existing extraction note; not independently verified against full text,"(p. 2, 25)"
+P55,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P55,Organizational Readiness,E,"Stakeholder satisfaction with generated outputs should be part of the evaluation criteria (p. 2, 25).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 2, 25)"
+P55,AI Literacy,E,"Practitioners need skills in prompt engineering and understanding how models work (p. 20, 23).",AI Literacy,Existing extraction note; not independently verified against full text,"(p. 20, 23)"
+P55,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P55,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P55,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P55,Routinization,E,"Integrates LLMs by restructuring business processes to create room for the tools (p. 25, 26).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 25, 26)"
+P55,AI Strategy,E,"Strategy emphasizes scoping applicability to define the boundary of LLM use cases (p. 18, 26).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 18, 26)"
+P55,AI Use Case,E,Developed RAG POC tool specifically for generating stakeholder analysis artifacts (p. 12).,AI Use Case Identification,Existing extraction note; not independently verified against full text,(p. 12)
+P55,Implementation Coordination,E,Knowledge-sharing activities like seminars and specialized training are crucial for users (p. 25).,Implementation Coordination,Existing extraction note; not independently verified against full text,(p. 25)
+P55,Responsible AI Governance,E,"Recommends developing human oversight and validation mechanisms to enhance regulatory compliance (p. 2, 25, 28).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 2, 25, 28)"
+P55,Value Creation,E,"Practitioners prioritize output usefulness over strict accuracy to support overall workflows (p. 24, 26).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 24, 26)"
+P55,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P56,AI Characteristics,U,,AI Characteristics,No source extraction supplied; not evidence of absence,
+P56,Task Fit,U,,Task Fit,No source extraction supplied; not evidence of absence,
+P56,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P56,Organizational Readiness,E,"Responsibility Index measures formal governance infrastructure and stakeholder interface transparency (p. 510, 519).",Organisational Readiness,Existing extraction note; not independently verified against full text,"(p. 510, 519)"
+P56,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P56,Capability Development,E,"Integrates dynamic capabilities to reconfigure resources ethically for long-term advantage (p. 492, 493).",Capability Development,Existing extraction note; not independently verified against full text,"(p. 492, 493)"
+P56,Sensemaking,E,"Structures risk-opportunity mapping to avoid learning myopia and maintain balance (p. 512, 515).",Sensemaking,Existing extraction note; not independently verified against full text,"(p. 512, 515)"
+P56,Adaptation/Resistance,E,"Institutional resistance and cultural stickiness are identified as barriers progress (p. 504, 516).",Adaptation/Resistance,Existing extraction note; not independently verified against full text,"(p. 504, 516)"
+P56,Routinization,E,"Transforming phase reconfigures routines based on pilot results to institutionalize practices (p. 503, 516).",Routinisation,Existing extraction note; not independently verified against full text,"(p. 503, 516)"
+P56,AI Strategy,E,"Strategic flexibility translates responsible innovation principles into actionable routines (p. 493, 502).",AI Strategy,Existing extraction note; not independently verified against full text,"(p. 493, 502)"
+P56,AI Use Case,E,"Sensing phase includes scans of qualified strategic opportunities and red-flag risks (p. 501, 515).",AI Use Case Identification,Existing extraction note; not independently verified against full text,"(p. 501, 515)"
+P56,Implementation Coordination,E,"Seizing phase requires transparently disclosing trade-offs and mitigation plans to stakeholders (p. 501, 516).",Implementation Coordination,Existing extraction note; not independently verified against full text,"(p. 501, 516)"
+P56,Responsible AI Governance,E,"Formal ethics oversight and regulatory compliance (e.g., EU AI Act) are integrated into workflows (p. 498, 499).",Responsible AI Governance,Existing extraction note; not independently verified against full text,"(p. 498, 499)"
+P56,Value Creation,E,"Responsible flexibility acts as a core competence and source of resilience and trust (p. 489, 511).",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,"(p. 489, 511)"
+P56,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P57,AI Characteristics,E,"Defined as computer systems performing tasks typically requiring human intelligence, often utilizing deep learning and large datasets.",AI Characteristics,Existing extraction note; not independently verified against full text,
+P57,Task Fit,E,Primarily evaluated for knowledge management tasks within a data-driven organizational context.,Task Fit,Existing extraction note; not independently verified against full text,
+P57,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P57,Organizational Readiness,E,Company trustworthiness (high vs. low) did not significantly affect message credibility or initial attitudes toward the technology.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P57,AI Literacy,E,"Self-reports indicated that most participants already had a relatively good understanding of what ""AI"" means.",AI Literacy,Existing extraction note; not independently verified against full text,
+P57,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P57,Sensemaking,E,"Ecological and social rationales were perceived as less credible than economic ones, as they conflict with general expectations of corporate profit-seeking.",Sensemaking,Existing extraction note; not independently verified against full text,
+P57,Adaptation/Resistance,E,"Insufficient initial acceptance may give rise to resistance, limiting potential organizational sustainability contributions.",Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P57,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P57,AI Strategy,E,Suggests transparently communicating economic benefits alongside ecological and social advantages to maintain positive initial employee attitudes.,AI Strategy,Existing extraction note; not independently verified against full text,
+P57,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P57,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P57,Responsible AI Governance,E,Recommends value-sensitive design and participatory methods to incorporate user needs and ensure the AI system is designed trustworthily.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P57,Value Creation,E,"High attitudinal acceptance can foster usage and internalization, potentially leading to positive performance outcomes for the organization.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P57,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P58,AI Characteristics,E,"Refers to intelligent systems involving core technologies such as machine learning, neural networks, computer vision, and natural language processing.",AI Characteristics,Existing extraction note; not independently verified against full text,
+P58,Task Fit,E,AI optimizes operational productivity by streamlining production processes through predictive maintenance and intelligent automation.,Task Fit,Existing extraction note; not independently verified against full text,
+P58,Data Readiness,E,Recognizes that firms often lack the necessary infrastructure to generate and organize high-quality training data for modeling.,Data Readiness,Existing extraction note; not independently verified against full text,
+P58,Organizational Readiness,E,State-owned enterprises and capital-intensive firms demonstrate a stronger ability to translate AI adoption into emission intensity reductions.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P58,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P58,Capability Development,E,AI adoption significantly enhances total factor productivity and serves as a powerful catalyst for firm-level green innovation.,Capability Development,Existing extraction note; not independently verified against full text,
+P58,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P58,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P58,Routinization,E,"AI adoption expands the overall production scale and increases total resource consumption, resulting in a net increase in absolute emissions.",Routinisation,Existing extraction note; not independently verified against full text,
+P58,AI Strategy,E,Proposes that targeted policies should leverage AI for decarbonization while actively managing scale-driven rebound effects.,AI Strategy,Existing extraction note; not independently verified against full text,
+P58,AI Use Case,E,"Identifies applications across smart education, government, finance, retail, healthcare, transportation, and environmental protection.",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P58,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P58,Responsible AI Governance,E,Stricter provincial environmental regulations effectively attenuate the emissions-increasing effect driven by AI-enabled production growth.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P58,Value Creation,E,"Reveals an ""AI Jevons Paradox"": AI adoption significantly reduces carbon emission intensity but leads to an absolute increase in total carbon emissions.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P58,Risk Outcomes,E,"Routinisation: AI adoption expands the overall production scale and increases total resource consumption, resulting in a net increase in absolute emissions.
+Stakeholder Value & Organisational Performance: Reveals an ""AI Jevons Paradox"": AI adoption significantly reduces carbon emission intensity but leads to an absolute increase in total carbon emissions.",Routinisation; Stakeholder Value & Organisational Performance,Retrospective classification of supplied extraction notes; full-text confirmation pending,
+P59,AI Characteristics,E,Characterized as intelligent machines performing cognitive functions like learning and problem-solving to sense and respond autonomously.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P59,Task Fit,E,"AI facilitates sustainability by enabling operational optimization, carbon footprint minimization, and demand prediction.",Task Fit,Existing extraction note; not independently verified against full text,
+P59,Data Readiness,E,Poor data quality and lack of data management resources rank as the second most significant technological challenge.,Data Readiness,Existing extraction note; not independently verified against full text,
+P59,Organizational Readiness,E,Lack of leadership support and high costs are identified as critical organizational bottlenecks to readiness.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P59,AI Literacy,E,Shortage of AI talent and lack of machine learning knowledge are the highest-ranked human challenges.,AI Literacy,Existing extraction note; not independently verified against full text,
+P59,Capability Development,E,"Supply chain learning (e.g., transformational leadership, governance) develops collective knowledge and competencies for successful implementation.",Capability Development,Existing extraction note; not independently verified against full text,
+P59,Sensemaking,E,Lack of awareness regarding performance benefits is a human barrier that can hinder adoption decisions.,Sensemaking,Existing extraction note; not independently verified against full text,
+P59,Adaptation/Resistance,E,Workers may resist AI due to uncertainty about status-quo shifts and fear of replacement.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P59,Routinization,E,Employs machine-learning algorithms for automatic processing in inventory management and supply chain advisory systems.,Routinisation,Existing extraction note; not independently verified against full text,
+P59,AI Strategy,E,Recommends that firms integrate supply chain learning strategies to accomplish new strategic operations like AI-enabled digitalization.,AI Strategy,Existing extraction note; not independently verified against full text,
+P59,AI Use Case,E,"Utilized for inventory management, pollution control alerts, and reducing product shortages.",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P59,Implementation Coordination,E,Requires building strong interconnectedness and synchronization of manufacturing processes with third-party collaborators and supply chain partners.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P59,Responsible AI Governance,E,Requires independent institutions to monitor ethical aspects and governance frameworks to assess societal impact.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P59,Value Creation,E,"AI adoption improves operational efficiency, transaction transparency, and facilitates long-term supply chain sustainability.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P59,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P60,AI Characteristics,E,"Characterized by high computational power, big data analytics, and real-time monitoring capabilities.",AI Characteristics,Existing extraction note; not independently verified against full text,
+P60,Task Fit,E,AI automates information processing and standardizes decision workflows to improve governance quality.,Task Fit,Existing extraction note; not independently verified against full text,
+P60,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P60,Organizational Readiness,E,Larger and older firms exhibit distinct structural challenges in compliance compared to smaller entities.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P60,AI Literacy,U,,AI Literacy,No source extraction supplied; not evidence of absence,
+P60,Capability Development,E,Adoption lowers agency costs and significantly enhances internal control capacity over executive behavior.,Capability Development,Existing extraction note; not independently verified against full text,
+P60,Sensemaking,U,,Sensemaking,No source extraction supplied; not evidence of absence,
+P60,Adaptation/Resistance,U,,Adaptation/Resistance,No source extraction supplied; not evidence of absence,
+P60,Routinization,E,Strategic AI investment institutionalizes digital governance and makes firm cost structures more rigid.,Routinisation,Existing extraction note; not independently verified against full text,
+P60,AI Strategy,E,Embedding AI into day-to-day processes supports the normalization and formalization of corporate governance.,AI Strategy,Existing extraction note; not independently verified against full text,
+P60,AI Use Case,E,"Identified use cases include financial reporting review, internal audit sampling, and procurement monitoring.",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P60,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P60,Responsible AI Governance,E,"AI application significantly reduces executive misconduct across incidence, frequency, and monetary penalty amounts.",Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P60,Value Creation,E,AI adoption reduces firms' cost of debt financing and significantly enhances total factor productivity.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P60,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P61,AI Characteristics,E,Uses deep learning algorithms capable of performing cognitive functions traditionally associated with human intelligence.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P61,Task Fit,E,"Complements human cognitive limitations in managing complex, multiobjective decisions and handling explicit knowledge.",Task Fit,Existing extraction note; not independently verified against full text,
+P61,Data Readiness,E,Excessive use of AI increases potential risks regarding data privacy and security.,Data Readiness,Existing extraction note; not independently verified against full text,
+P61,Organizational Readiness,E,Well-established firms where management holds significant shares are better positioned to effectively utilize AI.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P61,AI Literacy,E,Investment in training is needed to facilitate effective collaboration between employees and AI agents.,AI Literacy,Existing extraction note; not independently verified against full text,
+P61,Capability Development,E,Moderate adoption acts as a catalyst for knowledge creation and dynamic capability enhancement.,Capability Development,Existing extraction note; not independently verified against full text,
+P61,Sensemaking,E,"Data processing opacity can lead to human suspicion and distrust, known as algorithm aversion.",Sensemaking,Existing extraction note; not independently verified against full text,
+P61,Adaptation/Resistance,E,Excessive reliance suppresses human creativity and can result in organizational inertia.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P61,Routinization,E,Progress in data processing and pattern recognition enables rapid rapid knowledge dissemination and application.,Routinisation,Existing extraction note; not independently verified against full text,
+P61,AI Strategy,E,Managers should implement phased AI rollouts with continuous monitoring of knowledge creation metrics.,AI Strategy,Existing extraction note; not independently verified against full text,
+P61,AI Use Case,E,Used to identify external resources and optimize routine operational processes within the ecosystem.,AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P61,Implementation Coordination,E,Requires established cross-functional AI governance teams and collaboration with external partners like suppliers or customers.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P61,Responsible AI Governance,E,Proposes industry-specific ethics frameworks and tiered guidelines to preserve knowledge ecosystems.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P61,Value Creation,E,"Moderate AI adoption enhances knowledge flows and sustainability performance, but over-reliance triggers a decline.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P61,Risk Outcomes,E,"Adaptation/Resistance: Excessive reliance suppresses human creativity and can result in organizational inertia.
+Stakeholder Value & Organisational Performance: Moderate AI adoption enhances knowledge flows and sustainability performance, but over-reliance triggers a decline.",Adaptation/Resistance; Stakeholder Value & Organisational Performance,Retrospective classification of supplied extraction notes; full-text confirmation pending,
+P62,AI Characteristics,E,Capabilities include learning from data and performing tasks autonomously through machine learning and natural language processing.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P62,Task Fit,E,AI enables cognitive automation and augments human analytics within a symbiosis partnership.,Task Fit,Existing extraction note; not independently verified against full text,
+P62,Data Readiness,E,"Relies on high quality/amount of data, scalable infrastructure, and organizational-wide data assets.",Data Readiness,Existing extraction note; not independently verified against full text,
+P62,Organizational Readiness,E,"Readiness is driven by top management support, innovative culture, and access to competencies.",Organisational Readiness,Existing extraction note; not independently verified against full text,
+P62,AI Literacy,E,"Skill shortages are addressed through training on AI tools, platforms, and principles knowledge.",AI Literacy,Existing extraction note; not independently verified against full text,
+P62,Capability Development,E,"Organizations must build development, platform, and operational expertise for successful implementation.",Capability Development,Existing extraction note; not independently verified against full text,
+P62,Sensemaking,E,Champions and real-world examples help members grasp the importance and benefits of AI adoption.,Sensemaking,Existing extraction note; not independently verified against full text,
+P62,Adaptation/Resistance,E,"Barriers include user resistance, the knowledge-attitude-practice gap, and talent issues.",Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P62,Routinization,E,MLOps and CI/CD concepts embed AI solutions into routine production environments.,Routinisation,Existing extraction note; not independently verified against full text,
+P62,AI Strategy,E,Requires a defined architecture strategy and alignment with organizational digital transformation and sustainability goals.,AI Strategy,Existing extraction note; not independently verified against full text,
+P62,AI Use Case,E,"Identified applications include data curation, process automation, and event management (AIOps).",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P62,Implementation Coordination,E,Supported by communities of practice and external providers when specific AI knowledge is not internal.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P62,Responsible AI Governance,E,"Integrates fairness, accountability, transparency, and explainability into teams' daily work and governance bodies.",Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P62,Value Creation,E,"Adoption aims to achieve financial benefits, competitive advantage, and faster evidence-based decision-making.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P62,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P63,AI Characteristics,E,"Features include computer-based systems capable of learning, reasoning, and autonomous action.",AI Characteristics,Existing extraction note; not independently verified against full text,
+P63,Task Fit,E,Supports data-driven entities through forward-looking analysis and automated decision-making.,Task Fit,Existing extraction note; not independently verified against full text,
+P63,Data Readiness,E,Relies on data quality and sufficient data structures to train proper models.,Data Readiness,Existing extraction note; not independently verified against full text,
+P63,Organizational Readiness,E,"Readiness is influenced by resources, competencies, culture, and active top management support.",Organisational Readiness,Existing extraction note; not independently verified against full text,
+P63,AI Literacy,E,"Training on tools, platforms, and concepts for both employees and management is a key enabler.",AI Literacy,Existing extraction note; not independently verified against full text,
+P63,Capability Development,E,Building capabilities is achieved through training and leverages analytics competence centers.,Capability Development,Existing extraction note; not independently verified against full text,
+P63,Sensemaking,E,Real-life examples from demos and pilots help boost confidence in AI benefits.,Sensemaking,Existing extraction note; not independently verified against full text,
+P63,Adaptation/Resistance,E,Implementation challenges include user resistance and talent issues.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P63,Routinization,E,Embedded through CI/CD concepts and machine learning operations to ensure smooth flows.,Routinisation,Existing extraction note; not independently verified against full text,
+P63,AI Strategy,E,Adoption is a continuum requiring an innovative culture and the constant removal of barriers.,AI Strategy,Existing extraction note; not independently verified against full text,
+P63,AI Use Case,U,,AI Use Case Identification,No source extraction supplied; not evidence of absence,
+P63,Implementation Coordination,E,Implementation involves business units and potentially utilizing support from external providers.,Implementation Coordination,Existing extraction note; not independently verified against full text,
+P63,Responsible AI Governance,E,"Incorporates fairness, accountability, transparency, and explainability (FAT) into daily team work and governance processes.",Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P63,Value Creation,E,AI adoption delivers strategic organizational value and improved decision-making quality.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P63,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,
+P64,AI Characteristics,E,Generative AI involves automated content production that affects established concepts of authorship and accountability.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P64,Task Fit,E,Automating routine tasks like transcription and summarization assists human editorial judgment.,Task Fit,Existing extraction note; not independently verified against full text,
+P64,Data Readiness,U,,Data Readiness,No source extraction supplied; not evidence of absence,
+P64,Organizational Readiness,E,Success depends on institutional managerial and communicational capacity regarding technological decisions.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P64,AI Literacy,E,Professionals show conditional acceptance when AI implementation is transparent and maintains professionalism.,AI Literacy,Existing extraction note; not independently verified against full text,
+P64,Capability Development,U,,Capability Development,No source extraction supplied; not evidence of absence,
+P64,Sensemaking,E,Audiences interpret organizational changes and AI use as indicators of institutional goals and values.,Sensemaking,Existing extraction note; not independently verified against full text,
+P64,Adaptation/Resistance,E,Covert or undisclosed use contributes to narratives of deception and severe erosion of audience trust.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P64,Routinization,U,,Routinisation,No source extraction supplied; not evidence of absence,
+P64,AI Strategy,E,AI integration functions as a governance-mediated signal interpreted by audiences in economic terms.,AI Strategy,Existing extraction note; not independently verified against full text,
+P64,AI Use Case,E,"Deployed for production efficiency, production cycles, and automated content drafting.",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P64,Implementation Coordination,U,,Implementation Coordination,No source extraction supplied; not evidence of absence,
+P64,Responsible AI Governance,E,High transparency and ethical framing (defending integrity) are primary drivers of audience loyalty.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P64,Value Creation,E,Weak governance corresponds with increased engagement instability (ERI) and severe revenue contraction.,Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P64,Risk Outcomes,E,"Adaptation/Resistance: Covert or undisclosed use contributes to narratives of deception and severe erosion of audience trust.
+Stakeholder Value & Organisational Performance: Weak governance corresponds with increased engagement instability (ERI) and severe revenue contraction.",Adaptation/Resistance; Stakeholder Value & Organisational Performance,Retrospective classification of supplied extraction notes; full-text confirmation pending,
+P65,AI Characteristics,E,Chatbots use natural language processing (NLP) and information retrieval with text-based or voice-driven interfaces.,AI Characteristics,Existing extraction note; not independently verified against full text,
+P65,Task Fit,E,"Chatbots provide 24/7 informational assistance, handle FAQs, and perform transactional public services.",Task Fit,Existing extraction note; not independently verified against full text,
+P65,Data Readiness,E,"Requires knowledge-base creation using website analytics, back-end data, and FAQ content.",Data Readiness,Existing extraction note; not independently verified against full text,
+P65,Organizational Readiness,E,Readiness is facilitated by leadership's willingness to try new things and an innovative culture.,Organisational Readiness,Existing extraction note; not independently verified against full text,
+P65,AI Literacy,E,Agencies often lack the technology skills to build and manage chatbots independently.,AI Literacy,Existing extraction note; not independently verified against full text,
+P65,Capability Development,E,Staff members learn to monitor and adjust chatbots through training provided by IT partners.,Capability Development,Existing extraction note; not independently verified against full text,
+P65,Sensemaking,E,Analytics metadata enable agencies to tailor responses to users' shifting information needs.,Sensemaking,Existing extraction note; not independently verified against full text,
+P65,Adaptation/Resistance,E,Challenges are managed via soft launches and handling questions that chatbots could not initially answer.,Adaptation/Resistance,Existing extraction note; not independently verified against full text,
+P65,Routinization,E,Reallocating existing staff ensures long-term chatbot management and sustainability after pilot periods.,Routinisation,Existing extraction note; not independently verified against full text,
+P65,AI Strategy,E,Agencies MODERNIZED customer service through automation and self-service goals.,AI Strategy,Existing extraction note; not independently verified against full text,
+P65,AI Use Case,E,"Applied in unemployment insurance, taxes, social welfare, education, and public health.",AI Use Case Identification,Existing extraction note; not independently verified against full text,
+P65,Implementation Coordination,E,"Involves cross-agency interaction, collaboration with IT vendors, and aligning stakeholder expectations.",Implementation Coordination,Existing extraction note; not independently verified against full text,
+P65,Responsible AI Governance,E,Adheres to safety regulations by ensuring current usage does not require personally identifiable information.,Responsible AI Governance,Existing extraction note; not independently verified against full text,
+P65,Value Creation,E,"Reduces administrative burdens, improves citizen interactions, and decreases service delivery costs.",Stakeholder Value & Organisational Performance,Existing extraction note; not independently verified against full text,
+P65,Risk Outcomes,U,,Not present in source workbook,No source extraction supplied; not evidence of absence,

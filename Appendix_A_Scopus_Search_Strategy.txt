@@ -1,0 +1,48 @@
+TITLE (
+  (
+    "artificial intelligence" OR "generative AI" OR GenAI OR
+    "large language model*" OR LLM* OR ChatGPT OR "conversational AI"
+  )
+  AND
+  (
+    adopt* OR adoption OR appropriat* OR appropriation OR
+    implement* OR implementation OR readiness OR govern* OR governance
+  )
+)
+AND TITLE-ABS-KEY (
+  (
+    responsib* OR ethic* OR govern* OR governance OR accountab* OR trustworth* OR
+    "human oversight" OR "risk management" OR "risk assessment" OR
+    "AI governance" OR "algorithmic accountability" OR transparen* OR explainab*
+  )
+  W/7
+  (
+    adopt* OR adoption OR appropriat* OR appropriation OR
+    implement* OR implementation OR use OR usage OR readiness OR governance
+  )
+)
+AND TITLE-ABS-KEY (
+  (
+    organisation* OR organization* OR firm* OR enterprise* OR compan* OR
+    workplace* OR SME* OR manager* OR employee* OR "business process*"
+  )
+)
+AND TITLE-ABS-KEY (
+  (
+    "AI readiness" OR "organisational readiness" OR "organizational readiness" OR
+    "data readiness" OR "AI literacy" OR "AI skill*" OR
+    "top management support" OR "management support" OR
+    "AI capabilit*" OR "dynamic capabilit*" OR
+    "sensemaking" OR "AI-in-use" OR "technology-in-use" OR
+    routinisation OR routinization OR workaround* OR resistance OR
+    "human judgement" OR "human judgment" OR "output verification" OR
+    stakeholder* OR "value creation" OR "value co-creation" OR
+    "value destruction" OR "stakeholder risk*" OR "resource integration"
+  )
+)
+AND PUBYEAR > 2015
+AND (
+  LIMIT-TO ( DOCTYPE, "ar" ) OR
+  LIMIT-TO ( DOCTYPE, "re" )
+)
+AND LIMIT-TO ( LANGUAGE, "English" )
